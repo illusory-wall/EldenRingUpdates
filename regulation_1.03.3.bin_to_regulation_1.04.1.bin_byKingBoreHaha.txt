@@ -1,0 +1,2039 @@
+Game: ER
+Version: 10330078 to 10410090
+*** *** *** *** ActionButtonParam *** *** *** ***
+[ActionButtonParam][ID 6250] [] allowAngle: 180 -> 90
+*** *** *** *** AssetEnvironmentGeometryParam *** *** *** ***
+[AssetEnvironmentGeometryParam][ID 22045] ROW ADDED
+[AssetEnvironmentGeometryParam][ID 4352] [] refDrawParamId: 54 -> 79
+[AssetEnvironmentGeometryParam][ID 4384] [] refDrawParamId: 54 -> 79
+[AssetEnvironmentGeometryParam][ID 99015] [] refDrawParamId: 54 -> 79
+[AssetEnvironmentGeometryParam][ID 230619] [] overrideMaterialId: -1 -> 1
+[AssetEnvironmentGeometryParam][ID 230802] [] camNearBehaviorType: 0 -> 2
+[AssetEnvironmentGeometryParam][ID 230803] [] camNearBehaviorType: 0 -> 2
+[AssetEnvironmentGeometryParam][ID 230804] [] camNearBehaviorType: 0 -> 2
+[AssetEnvironmentGeometryParam][ID 237070] [] overrideMaterialId: -1 -> 11
+[AssetEnvironmentGeometryParam][ID 270131] [] refDrawParamId: 2506 -> 2584
+[AssetEnvironmentGeometryParam][ID 277020] [] camNearBehaviorType: -1 -> 1
+[AssetEnvironmentGeometryParam][ID 277081] [] refDrawParamId: 2304 -> 2308
+*** *** *** *** AtkParam_Npc *** *** *** ***
+[AtkParam_Npc][ID 4750610] ROW ADDED
+[AtkParam_Npc][ID 120100] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 120101] [] atkMaterial: 0 -> 6
+[AtkParam_Npc][ID 120105] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 120110] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 120111] [] atkMaterial: 0 -> 6
+[AtkParam_Npc][ID 120115] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 120120] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 120121] [] atkMaterial: 0 -> 6
+[AtkParam_Npc][ID 120125] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 120150] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 120151] [] atkMaterial: 0 -> 6
+[AtkParam_Npc][ID 120155] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 120160] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 120161] [] atkMaterial: 0 -> 6
+[AtkParam_Npc][ID 120165] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 120170] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 120171] [] atkMaterial: 0 -> 6
+[AtkParam_Npc][ID 120175] [] atkMaterial: 0 -> 4
+[AtkParam_Npc][ID 2040100] [] atkAttribute: 3 -> 1 [] atkType: 3 -> 1
+[AtkParam_Npc][ID 2040120] [] atkAttribute: 3 -> 1 [] atkType: 3 -> 1
+[AtkParam_Npc][ID 2040130] [] atkAttribute: 3 -> 0 [] atkType: 3 -> 0
+[AtkParam_Npc][ID 2040140] [] atkAttribute: 3 -> 1 [] atkType: 3 -> 1
+[AtkParam_Npc][ID 2040150] [] atkAttribute: 3 -> 1 [] atkType: 3 -> 1
+[AtkParam_Npc][ID 2041140] [] atkAttribute: 2 -> 3
+[AtkParam_Npc][ID 2130147] [] hit0_Radius: 0.5 -> 0
+[AtkParam_Npc][ID 3100100] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3100110] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3100120] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3100121] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3100123] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3100130] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3100131] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3100132] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3100140] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3100150] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3100160] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3100180] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3100190] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3100200] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3100210] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3100230] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3100250] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3100280] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3350190] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3350191] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3350240] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3350241] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3350250] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3350251] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3350280] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3350281] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3350340] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3350341] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3350350] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3350351] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3350380] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3350381] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3350690] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3350691] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3450100] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3450110] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3450120] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3450140] [] atkDir_forSfx: 0 -> 2
+[AtkParam_Npc][ID 3450150] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3450160] [] atkDir_forSfx: 0 -> 2
+[AtkParam_Npc][ID 3450170] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3450171] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3450180] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3450181] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3450190] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3450191] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3450192] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3450200] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3450201] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3600110] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3600150] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3600160] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3600180] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3600310] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3600320] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3600330] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3600350] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3600360] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3600370] [] atkDir_forSfx: 0 -> 2
+[AtkParam_Npc][ID 3600374] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3610100] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3610110] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3620100] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3620110] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3630110] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3630120] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3630130] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3630140] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3630142] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3630170] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3630180] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3630190] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3800100] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3800120] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3800121] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3800130] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3800140] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3800150] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3800160] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3800170] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3800180] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3800181] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3800185] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3800200] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3800201] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3800210] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3800211] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3800220] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3800221] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3800230] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3800231] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3800232] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3800233] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3800240] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3800250] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3800260] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3800270] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3800284] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 2
+[AtkParam_Npc][ID 3800285] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 2
+[AtkParam_Npc][ID 3800286] [] atkPow_forSfx: 1 -> 0 [] atkDir_forSfx: 0 -> 2
+[AtkParam_Npc][ID 3800302] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3800310] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3800311] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3810100] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3810110] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3810111] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3810120] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3810130] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3810140] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3810160] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3810170] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3810180] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3810200] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3810201] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3810210] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3810220] [] atkPow_forSfx: 1 -> 0
+[AtkParam_Npc][ID 3810230] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 3810240] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3850070] [] atkMaterial: 6 -> 0 [] decalBaseId1: -1 -> 0 [] decalBaseId2: -1 -> 100
+[AtkParam_Npc][ID 3850075] [] atkType: 0 -> 3
+[AtkParam_Npc][ID 3850080] [] atkType: 0 -> 3
+[AtkParam_Npc][ID 3850085] [] atkType: 0 -> 3
+[AtkParam_Npc][ID 3850310] [] atkType: 0 -> 3
+[AtkParam_Npc][ID 3850320] [] atkType: 0 -> 3
+[AtkParam_Npc][ID 3970100] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3970130] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970141] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970150] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970200] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3970230] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970241] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970250] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970500] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970541] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970570] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970580] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3970581] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3970600] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970641] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970670] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 3970680] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 3970681] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4250100] [] atkStam: 0 -> 20
+[AtkParam_Npc][ID 4250110] [] atkStam: 0 -> 20
+[AtkParam_Npc][ID 4250120] [] atkStam: 0 -> 20
+[AtkParam_Npc][ID 4250121] [] atkStam: 0 -> 20
+[AtkParam_Npc][ID 4250700] [] atkStam: 0 -> 20
+[AtkParam_Npc][ID 4290100] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290110] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290120] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290121] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290130] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290140] [] atkAttribute: 3 -> 0 [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290150] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290160] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290170] [] atkAttribute: 3 -> 0 [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290171] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290172] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290180] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4290190] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4510100] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510101] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 4510110] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4510120] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 4510140] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510240] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510250] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510251] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 4510270] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4510280] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4510300] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510310] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510350] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4510360] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510370] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510380] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510400] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510401] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 4510410] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4510420] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510430] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4510440] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4510650] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4510660] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4550174] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4550175] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 4550220] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560100] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560120] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560130] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560131] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560132] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560150] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560160] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560170] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560171] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560180] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560200] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4560300] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4560310] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760000] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760020] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4760031] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4760040] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760050] [] atkDir_forSfx: 0 -> 2
+[AtkParam_Npc][ID 4760060] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760061] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760070] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760100] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760110] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760131] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760140] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760141] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760142] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760143] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760144] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760145] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760146] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760147] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760150] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4760160] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 4760170] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760180] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760181] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760182] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760183] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760184] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760185] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760186] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760187] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760220] [] atkDir_forSfx: 0 -> 3
+[AtkParam_Npc][ID 4760230] [] atkDir_forSfx: 0 -> 4
+[AtkParam_Npc][ID 4760240] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760241] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760250] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760251] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760260] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760261] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760262] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760263] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760264] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760301] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760302] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760310] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760311] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760312] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760313] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760314] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760315] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760320] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760330] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760360] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760361] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760370] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760371] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760372] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760373] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4760374] [] atkDir_forSfx: 0 -> 1
+[AtkParam_Npc][ID 4820100] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4820110] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4820120] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4820130] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4820140] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4820150] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4820180] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4820190] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 4820191] [] spAttribute: 0 -> 22
+[AtkParam_Npc][ID 8120000] [] atkPhys: 999 -> 500
+*** *** *** *** AtkParam_Pc *** *** *** ***
+[AtkParam_Pc][ID 300200077] ROW ADDED
+[AtkParam_Pc][ID 300200078] ROW ADDED
+[AtkParam_Pc][ID 300000373] ROW ADDED
+[AtkParam_Pc][ID 300900114] ROW ADDED
+[AtkParam_Pc][ID 303401202] ROW ADDED
+[AtkParam_Pc][ID 40300] [] atkMag: 71 -> 87
+[AtkParam_Pc][ID 40301] [] atkMag: 78 -> 102
+[AtkParam_Pc][ID 44310] [] atkMag: 243 -> 133 [] atkStam: 120 -> 90 [] atkSuperArmor: 10.175 -> 7
+[AtkParam_Pc][ID 44311] [] atkMag: 243 -> 133 [] atkStam: 120 -> 90 [] atkSuperArmor: 10.175 -> 7
+[AtkParam_Pc][ID 44315] [] atkMag: 243 -> 133 [] atkStam: 120 -> 90 [] atkSuperArmor: 10.175 -> 7
+[AtkParam_Pc][ID 44316] [] atkMag: 243 -> 133 [] atkStam: 120 -> 90 [] atkSuperArmor: 10.175 -> 7
+[AtkParam_Pc][ID 44317] [] atkMag: 247 -> 137 [] atkStam: 120 -> 90 [] atkSuperArmor: 10.175 -> 7
+[AtkParam_Pc][ID 44318] [] atkMag: 247 -> 137 [] atkStam: 120 -> 90 [] atkSuperArmor: 10.175 -> 7
+[AtkParam_Pc][ID 44319] [] atkMag: 235 -> 189 [] atkSuperArmor: 4 -> 3.5
+[AtkParam_Pc][ID 48100] [] atkFire: 90 -> 125
+[AtkParam_Pc][ID 48107] [] atkFire: 90 -> 125
+[AtkParam_Pc][ID 50300] [] atkMag: 95 -> 105
+[AtkParam_Pc][ID 60011] [] atkFire: 257 -> 280
+[AtkParam_Pc][ID 60016] [] atkFire: 301 -> 385 [] atkStam: 120 -> 135
+[AtkParam_Pc][ID 60200] [] atkFire: 245 -> 115 [] atkStam: 40 -> 25 [] atkSuperArmor: 5 -> 4
+[AtkParam_Pc][ID 60201] [] atkFire: 245 -> 115 [] atkStam: 40 -> 25 [] atkSuperArmor: 5 -> 4
+[AtkParam_Pc][ID 60202] [] atkFire: 245 -> 115 [] atkStam: 40 -> 25 [] atkSuperArmor: 5 -> 4
+[AtkParam_Pc][ID 60205] [] atkFire: 286 -> 140 [] atkStam: 52 -> 34 [] atkSuperArmor: 9.25 -> 6
+[AtkParam_Pc][ID 60206] [] atkFire: 286 -> 140 [] atkStam: 52 -> 34 [] atkSuperArmor: 9.25 -> 6
+[AtkParam_Pc][ID 60207] [] atkFire: 286 -> 140 [] atkStam: 52 -> 34 [] atkSuperArmor: 9.25 -> 6
+[AtkParam_Pc][ID 60300] [] atkFire: 91 -> 96
+[AtkParam_Pc][ID 60305] [] atkFire: 106 -> 121
+[AtkParam_Pc][ID 61100] [] atkFire: 352 -> 415
+[AtkParam_Pc][ID 62100] [] atkFire: 214 -> 244 [] atkStam: 91 -> 100
+[AtkParam_Pc][ID 62101] [] atkFire: 214 -> 244 [] atkStam: 91 -> 100
+[AtkParam_Pc][ID 62105] [] atkFire: 248 -> 300 [] atkStam: 118 -> 160
+[AtkParam_Pc][ID 62106] [] atkFire: 248 -> 300 [] atkStam: 118 -> 160
+[AtkParam_Pc][ID 67000] [] atkDark: 114 -> 150
+[AtkParam_Pc][ID 67001] [] atkDark: 114 -> 150
+[AtkParam_Pc][ID 67002] [] atkDark: 114 -> 150
+[AtkParam_Pc][ID 67003] [] atkDark: 114 -> 150
+[AtkParam_Pc][ID 67010] [] atkDark: 134 -> 155
+[AtkParam_Pc][ID 67011] [] atkDark: 134 -> 155
+[AtkParam_Pc][ID 67012] [] atkDark: 134 -> 155
+[AtkParam_Pc][ID 67013] [] atkDark: 134 -> 155
+[AtkParam_Pc][ID 67014] [] atkDark: 134 -> 155
+[AtkParam_Pc][ID 67100] [] atkDark: 282 -> 310
+[AtkParam_Pc][ID 67105] [] atkDark: 333 -> 395
+[AtkParam_Pc][ID 70600] [] atkSuperArmor: 22.512 -> 30
+[AtkParam_Pc][ID 70601] [] atkSuperArmor: 22.512 -> 30
+[AtkParam_Pc][ID 70602] [] atkSuperArmor: 22.512 -> 30
+[AtkParam_Pc][ID 70603] [] atkSuperArmor: 22.512 -> 30
+[AtkParam_Pc][ID 70800] [] atkSuperArmor: 28.14 -> 45
+[AtkParam_Pc][ID 73000] [] atkThrowEscapeCorrection: 100 -> 0 [] throwDamageAttribute: 1 -> 0
+[AtkParam_Pc][ID 73001] [] atkPhysCorrection: 100 -> 0 [] atkMagCorrection: 100 -> 0 [] atkFireCorrection: 100 -> 0 [] atkThunCorrection: 100 -> 0 [] atkThrowEscapeCorrection: 100 -> 0 [] isAddBaseAtk: 0 -> 1 [] atkDarkCorrection: 100 -> 0 [] throwDamageAttribute: 1 -> 0 [] overwriteAttackElementCorrectId: -1 -> 40000
+[AtkParam_Pc][ID 73002] [] atkThrowEscapeCorrection: 100 -> 0 [] throwDamageAttribute: 1 -> 0
+[AtkParam_Pc][ID 75105] [] atkSuperArmor: 22.512 -> 30
+[AtkParam_Pc][ID 75106] [] atkSuperArmor: 22.512 -> 30
+[AtkParam_Pc][ID 211305] [] atkBehaviorId: 0 -> 9
+[AtkParam_Pc][ID 400200] [] atkPhysCorrection: 103 -> 114 [] atkMagCorrection: 103 -> 114 [] atkFireCorrection: 103 -> 114 [] atkThunCorrection: 103 -> 114 [] atkDarkCorrection: 103 -> 114
+[AtkParam_Pc][ID 400210] [] atkPhysCorrection: 105 -> 117 [] atkMagCorrection: 105 -> 117 [] atkFireCorrection: 105 -> 117 [] atkThunCorrection: 105 -> 117 [] atkDarkCorrection: 105 -> 117
+[AtkParam_Pc][ID 400220] [] atkPhysCorrection: 112 -> 125 [] atkMagCorrection: 112 -> 125 [] atkFireCorrection: 112 -> 125 [] atkThunCorrection: 112 -> 125 [] atkDarkCorrection: 112 -> 125
+[AtkParam_Pc][ID 400300] [] atkPhysCorrection: 130 -> 141 [] atkMagCorrection: 130 -> 141 [] atkFireCorrection: 130 -> 141 [] atkThunCorrection: 130 -> 141 [] atkDarkCorrection: 130 -> 141
+[AtkParam_Pc][ID 400305] [] atkPhysCorrection: 170 -> 180 [] atkMagCorrection: 170 -> 180 [] atkFireCorrection: 170 -> 180 [] atkThunCorrection: 170 -> 180 [] atkDarkCorrection: 170 -> 180
+[AtkParam_Pc][ID 400310] [] atkPhysCorrection: 130 -> 141 [] atkMagCorrection: 130 -> 141 [] atkFireCorrection: 130 -> 141 [] atkThunCorrection: 130 -> 141 [] atkDarkCorrection: 130 -> 141
+[AtkParam_Pc][ID 400315] [] atkPhysCorrection: 175 -> 187 [] atkMagCorrection: 175 -> 187 [] atkFireCorrection: 175 -> 187 [] atkThunCorrection: 175 -> 187 [] atkDarkCorrection: 175 -> 187
+[AtkParam_Pc][ID 400320] [] atkPhysCorrection: 110 -> 122 [] atkMagCorrection: 110 -> 122 [] atkFireCorrection: 110 -> 122 [] atkThunCorrection: 110 -> 122 [] atkDarkCorrection: 110 -> 122
+[AtkParam_Pc][ID 400325] [] atkPhysCorrection: 125 -> 138 [] atkMagCorrection: 125 -> 138 [] atkFireCorrection: 125 -> 138 [] atkThunCorrection: 125 -> 138 [] atkDarkCorrection: 125 -> 138
+[AtkParam_Pc][ID 400330] [] atkPhysCorrection: 95 -> 107 [] atkMagCorrection: 95 -> 107 [] atkFireCorrection: 95 -> 107 [] atkThunCorrection: 95 -> 107 [] atkDarkCorrection: 95 -> 107
+[AtkParam_Pc][ID 400340] [] atkPhysCorrection: 100 -> 113 [] atkMagCorrection: 100 -> 113 [] atkFireCorrection: 100 -> 113 [] atkThunCorrection: 100 -> 113 [] atkDarkCorrection: 100 -> 113
+[AtkParam_Pc][ID 400380] [] atkPhysCorrection: 130 -> 143 [] atkMagCorrection: 130 -> 143 [] atkFireCorrection: 130 -> 143 [] atkThunCorrection: 130 -> 143 [] atkDarkCorrection: 130 -> 143
+[AtkParam_Pc][ID 401300] [] atkPhysCorrection: 126 -> 136 [] atkMagCorrection: 126 -> 136 [] atkFireCorrection: 126 -> 136 [] atkThunCorrection: 126 -> 136 [] atkDarkCorrection: 126 -> 136
+[AtkParam_Pc][ID 401305] [] atkPhysCorrection: 161 -> 176 [] atkMagCorrection: 161 -> 176 [] atkFireCorrection: 161 -> 176 [] atkThunCorrection: 161 -> 176 [] atkDarkCorrection: 161 -> 176
+[AtkParam_Pc][ID 401310] [] atkPhysCorrection: 130 -> 136 [] atkMagCorrection: 130 -> 136 [] atkFireCorrection: 130 -> 136 [] atkThunCorrection: 130 -> 136 [] atkDarkCorrection: 130 -> 136
+[AtkParam_Pc][ID 401315] [] atkPhysCorrection: 165 -> 184 [] atkMagCorrection: 165 -> 184 [] atkFireCorrection: 165 -> 184 [] atkThunCorrection: 165 -> 184 [] atkDarkCorrection: 165 -> 184
+[AtkParam_Pc][ID 402300] [] atkPhysCorrection: 130 -> 139 [] atkMagCorrection: 130 -> 139 [] atkFireCorrection: 130 -> 139 [] atkThunCorrection: 130 -> 139 [] atkDarkCorrection: 130 -> 139
+[AtkParam_Pc][ID 402305] [] atkPhysCorrection: 170 -> 178 [] atkMagCorrection: 170 -> 178 [] atkFireCorrection: 170 -> 178 [] atkThunCorrection: 170 -> 178 [] atkDarkCorrection: 170 -> 178
+[AtkParam_Pc][ID 403300] [] atkPhysCorrection: 125 -> 127 [] atkMagCorrection: 125 -> 127 [] atkFireCorrection: 125 -> 127 [] atkThunCorrection: 125 -> 127 [] atkDarkCorrection: 125 -> 127
+[AtkParam_Pc][ID 403305] [] atkPhysCorrection: 135 -> 137 [] atkMagCorrection: 135 -> 137 [] atkFireCorrection: 135 -> 137 [] atkThunCorrection: 135 -> 137 [] atkDarkCorrection: 135 -> 137
+[AtkParam_Pc][ID 403310] [] atkPhysCorrection: 130 -> 132 [] atkMagCorrection: 130 -> 132 [] atkFireCorrection: 130 -> 132 [] atkThunCorrection: 130 -> 132 [] atkDarkCorrection: 130 -> 132
+[AtkParam_Pc][ID 403315] [] atkPhysCorrection: 140 -> 142 [] atkMagCorrection: 140 -> 142 [] atkFireCorrection: 140 -> 142 [] atkThunCorrection: 140 -> 142 [] atkDarkCorrection: 140 -> 142
+[AtkParam_Pc][ID 404200] [] atkPhysCorrection: 103 -> 105 [] atkMagCorrection: 103 -> 105 [] atkFireCorrection: 103 -> 105 [] atkThunCorrection: 103 -> 105 [] atkDarkCorrection: 103 -> 105
+[AtkParam_Pc][ID 404210] [] atkPhysCorrection: 105 -> 107 [] atkMagCorrection: 105 -> 107 [] atkFireCorrection: 105 -> 107 [] atkThunCorrection: 105 -> 107 [] atkDarkCorrection: 105 -> 107
+[AtkParam_Pc][ID 404220] [] atkPhysCorrection: 112 -> 114 [] atkMagCorrection: 112 -> 114 [] atkFireCorrection: 112 -> 114 [] atkThunCorrection: 112 -> 114 [] atkDarkCorrection: 112 -> 114
+[AtkParam_Pc][ID 1700630] [] hit0_DmyPoly1: 110 -> 100
+[AtkParam_Pc][ID 1700631] [] hit0_DmyPoly1: 110 -> 100
+[AtkParam_Pc][ID 1700730] [] hit0_DmyPoly1: 110 -> 100
+[AtkParam_Pc][ID 1700731] [] hit0_DmyPoly1: 110 -> 100
+[AtkParam_Pc][ID 2300200] [] atkPhysCorrection: 103 -> 114 [] atkMagCorrection: 103 -> 114 [] atkFireCorrection: 103 -> 114 [] atkThunCorrection: 103 -> 114 [] atkDarkCorrection: 103 -> 114
+[AtkParam_Pc][ID 2300210] [] atkPhysCorrection: 105 -> 117 [] atkMagCorrection: 105 -> 117 [] atkFireCorrection: 105 -> 117 [] atkThunCorrection: 105 -> 117 [] atkDarkCorrection: 105 -> 117
+[AtkParam_Pc][ID 2300220] [] atkPhysCorrection: 112 -> 125 [] atkMagCorrection: 112 -> 125 [] atkFireCorrection: 112 -> 125 [] atkThunCorrection: 112 -> 125 [] atkDarkCorrection: 112 -> 125
+[AtkParam_Pc][ID 2300300] [] atkPhysCorrection: 130 -> 141 [] atkMagCorrection: 130 -> 141 [] atkFireCorrection: 130 -> 141 [] atkThunCorrection: 130 -> 141 [] atkDarkCorrection: 130 -> 141
+[AtkParam_Pc][ID 2300305] [] atkPhysCorrection: 170 -> 182 [] atkMagCorrection: 170 -> 182 [] atkFireCorrection: 170 -> 182 [] atkThunCorrection: 170 -> 182 [] atkDarkCorrection: 170 -> 182
+[AtkParam_Pc][ID 2300310] [] atkPhysCorrection: 130 -> 141 [] atkMagCorrection: 130 -> 141 [] atkFireCorrection: 130 -> 141 [] atkThunCorrection: 130 -> 141 [] atkDarkCorrection: 130 -> 141
+[AtkParam_Pc][ID 2300315] [] atkPhysCorrection: 170 -> 189 [] atkMagCorrection: 170 -> 189 [] atkFireCorrection: 170 -> 189 [] atkThunCorrection: 170 -> 189 [] atkDarkCorrection: 170 -> 189
+[AtkParam_Pc][ID 2300320] [] atkPhysCorrection: 110 -> 124 [] atkMagCorrection: 110 -> 124 [] atkFireCorrection: 110 -> 124 [] atkThunCorrection: 110 -> 124 [] atkDarkCorrection: 110 -> 124
+[AtkParam_Pc][ID 2300325] [] atkPhysCorrection: 125 -> 137 [] atkMagCorrection: 125 -> 137 [] atkFireCorrection: 125 -> 137 [] atkThunCorrection: 125 -> 137 [] atkDarkCorrection: 125 -> 137
+[AtkParam_Pc][ID 2300330] [] atkPhysCorrection: 90 -> 112 [] atkMagCorrection: 90 -> 112 [] atkFireCorrection: 90 -> 112 [] atkThunCorrection: 90 -> 112 [] atkDarkCorrection: 90 -> 112
+[AtkParam_Pc][ID 2300340] [] atkPhysCorrection: 100 -> 113 [] atkMagCorrection: 100 -> 113 [] atkFireCorrection: 100 -> 113 [] atkThunCorrection: 100 -> 113 [] atkDarkCorrection: 100 -> 113
+[AtkParam_Pc][ID 2300380] [] atkPhysCorrection: 130 -> 143 [] atkMagCorrection: 130 -> 143 [] atkFireCorrection: 130 -> 143 [] atkThunCorrection: 130 -> 143 [] atkDarkCorrection: 130 -> 143
+[AtkParam_Pc][ID 2302300] [] atkPhysCorrection: 130 -> 143 [] atkMagCorrection: 130 -> 143 [] atkFireCorrection: 130 -> 143 [] atkThunCorrection: 130 -> 143 [] atkDarkCorrection: 130 -> 143
+[AtkParam_Pc][ID 2302305] [] atkPhysCorrection: 175 -> 185 [] atkMagCorrection: 175 -> 185 [] atkFireCorrection: 175 -> 185 [] atkThunCorrection: 175 -> 185 [] atkDarkCorrection: 175 -> 185
+[AtkParam_Pc][ID 2302310] [] atkPhysCorrection: 130 -> 143 [] atkMagCorrection: 130 -> 143 [] atkFireCorrection: 130 -> 143 [] atkThunCorrection: 130 -> 143 [] atkDarkCorrection: 130 -> 143
+[AtkParam_Pc][ID 2302315] [] atkPhysCorrection: 175 -> 187 [] atkMagCorrection: 175 -> 187 [] atkFireCorrection: 175 -> 187 [] atkThunCorrection: 175 -> 187 [] atkDarkCorrection: 175 -> 187
+[AtkParam_Pc][ID 2303300] [] atkPhysCorrection: 135 -> 145 [] atkMagCorrection: 135 -> 145 [] atkFireCorrection: 135 -> 145 [] atkThunCorrection: 135 -> 145 [] atkDarkCorrection: 135 -> 145
+[AtkParam_Pc][ID 2303305] [] atkPhysCorrection: 180 -> 182 [] atkMagCorrection: 180 -> 182 [] atkFireCorrection: 180 -> 182 [] atkThunCorrection: 180 -> 182 [] atkDarkCorrection: 180 -> 182
+[AtkParam_Pc][ID 2303310] [] atkPhysCorrection: 135 -> 145 [] atkMagCorrection: 135 -> 145 [] atkFireCorrection: 135 -> 145 [] atkThunCorrection: 135 -> 145 [] atkDarkCorrection: 135 -> 145
+[AtkParam_Pc][ID 2303315] [] atkPhysCorrection: 185 -> 187 [] atkMagCorrection: 185 -> 187 [] atkFireCorrection: 185 -> 187 [] atkThunCorrection: 185 -> 187 [] atkDarkCorrection: 185 -> 187
+[AtkParam_Pc][ID 2304300] [] atkPhysCorrection: 135 -> 137 [] atkMagCorrection: 135 -> 137 [] atkFireCorrection: 135 -> 137 [] atkThunCorrection: 135 -> 137 [] atkDarkCorrection: 135 -> 137
+[AtkParam_Pc][ID 2304305] [] atkPhysCorrection: 185 -> 187 [] atkMagCorrection: 185 -> 187 [] atkFireCorrection: 185 -> 187 [] atkThunCorrection: 185 -> 187 [] atkDarkCorrection: 185 -> 187
+[AtkParam_Pc][ID 2304310] [] atkPhysCorrection: 135 -> 137 [] atkMagCorrection: 135 -> 137 [] atkFireCorrection: 135 -> 137 [] atkThunCorrection: 135 -> 137 [] atkDarkCorrection: 135 -> 137
+[AtkParam_Pc][ID 2304315] [] atkPhysCorrection: 180 -> 182 [] atkMagCorrection: 180 -> 182 [] atkFireCorrection: 180 -> 182 [] atkThunCorrection: 180 -> 182 [] atkDarkCorrection: 180 -> 182
+[AtkParam_Pc][ID 2305300] [] atkPhysCorrection: 130 -> 135 [] atkMagCorrection: 130 -> 135 [] atkFireCorrection: 130 -> 135 [] atkThunCorrection: 130 -> 135 [] atkDarkCorrection: 130 -> 135
+[AtkParam_Pc][ID 2305305] [] atkPhysCorrection: 170 -> 175 [] atkMagCorrection: 170 -> 175 [] atkFireCorrection: 170 -> 175 [] atkThunCorrection: 170 -> 175 [] atkDarkCorrection: 170 -> 175
+[AtkParam_Pc][ID 2305310] [] atkPhysCorrection: 45 -> 46 [] atkMagCorrection: 45 -> 46 [] atkFireCorrection: 45 -> 46 [] atkThunCorrection: 45 -> 46 [] atkDarkCorrection: 45 -> 46
+[AtkParam_Pc][ID 2305311] [] atkPhysCorrection: 110 -> 111 [] atkMagCorrection: 110 -> 111 [] atkFireCorrection: 110 -> 111 [] atkThunCorrection: 110 -> 111 [] atkDarkCorrection: 110 -> 111
+[AtkParam_Pc][ID 2305312] [] atkPhysCorrection: 45 -> 46 [] atkMagCorrection: 45 -> 46 [] atkFireCorrection: 45 -> 46 [] atkThunCorrection: 45 -> 46 [] atkDarkCorrection: 45 -> 46
+[AtkParam_Pc][ID 2305315] [] atkPhysCorrection: 50 -> 51 [] atkMagCorrection: 50 -> 51 [] atkFireCorrection: 50 -> 51 [] atkThunCorrection: 50 -> 51 [] atkDarkCorrection: 50 -> 51
+[AtkParam_Pc][ID 2305316] [] atkPhysCorrection: 150 -> 151 [] atkMagCorrection: 150 -> 151 [] atkFireCorrection: 150 -> 151 [] atkThunCorrection: 150 -> 151 [] atkDarkCorrection: 150 -> 151
+[AtkParam_Pc][ID 2305317] [] atkPhysCorrection: 50 -> 51 [] atkMagCorrection: 50 -> 51 [] atkFireCorrection: 50 -> 51 [] atkThunCorrection: 50 -> 51 [] atkDarkCorrection: 50 -> 51
+[AtkParam_Pc][ID 3400500] [] atkPhysCorrection: 20 -> 100 [] atkMagCorrection: 20 -> 100 [] atkFireCorrection: 20 -> 100 [] atkThunCorrection: 20 -> 100 [] atkFire: 180 -> 100 [] throwTypeId: 0 -> 10 [] isAddBaseAtk: 0 -> 1 [] throwDamageAttribute: 1 -> 0 [] overwriteAttackElementCorrectId: 10000 -> 40000
+[AtkParam_Pc][ID 10042001] [] atkThun: 74 -> 68
+[AtkParam_Pc][ID 10051001] [] atkDark: 167 -> 150
+[AtkParam_Pc][ID 300000870] [] isArrowAtk: 0 -> 1
+[AtkParam_Pc][ID 300200871] [] atkMag: 280 -> 315 [] atkSuperArmor: 25 -> 30
+[AtkParam_Pc][ID 300200872] [] atkMag: 350 -> 400 [] atkSuperArmor: 30 -> 45
+[AtkParam_Pc][ID 300200911] [] atkMag: 300 -> 340 [] atkSuperArmor: 25 -> 35
+[AtkParam_Pc][ID 300317900] [] atkStamCorrection: 150 -> 350 [] atkDarkCorrection: 100 -> 200 [] atkSuperArmorCorrection: 150 -> 350
+[AtkParam_Pc][ID 30090012] [] spEffectId1: -1 -> 6703
+[AtkParam_Pc][ID 301703950] [] atkPhysCorrection: 200 -> 240
+[AtkParam_Pc][ID 303401300] [] knockbackDist: 1 -> 0.2
+[AtkParam_Pc][ID 303401303] [] knockbackDist: 0.1 -> 0
+*** *** *** *** AttackElementCorrectParam *** *** *** ***
+[AttackElementCorrectParam][ID 40000] ROW ADDED
+*** *** *** *** BehaviorParam *** *** *** ***
+[BehaviorParam][ID 247500610] ROW ADDED
+*** *** *** *** BehaviorParam_PC *** *** *** ***
+[BehaviorParam_PC][ID 300000077] ROW ADDED
+[BehaviorParam_PC][ID 300000078] ROW ADDED
+[BehaviorParam_PC][ID 300000373] ROW ADDED
+[BehaviorParam_PC][ID 300910903] ROW ADDED
+[BehaviorParam_PC][ID 300601902] ROW ADDED
+[BehaviorParam_PC][ID 104300800] [] stamina: 20 -> 16
+[BehaviorParam_PC][ID 104300801] [] stamina: 20 -> 16
+[BehaviorParam_PC][ID 104400800] [] stamina: 20 -> 16
+[BehaviorParam_PC][ID 104400801] [] stamina: 20 -> 16
+[BehaviorParam_PC][ID 300000075] [] stamina: 20 -> 10
+[BehaviorParam_PC][ID 300000076] [] stamina: 20 -> 10
+[BehaviorParam_PC][ID 300000085] [] stamina: 20 -> 16
+[BehaviorParam_PC][ID 300000086] [] stamina: 20 -> 16
+[BehaviorParam_PC][ID 300000301] [] stamina: 30 -> 25
+[BehaviorParam_PC][ID 300000305] [] stamina: 15 -> 5
+[BehaviorParam_PC][ID 300000370] [] stamina: 25 -> 15
+[BehaviorParam_PC][ID 300000780] [] stamina: 6 -> 5
+[BehaviorParam_PC][ID 300000781] [] stamina: 6 -> 5
+[BehaviorParam_PC][ID 300000782] [] stamina: 35 -> 28
+[BehaviorParam_PC][ID 300000783] [] stamina: 35 -> 28
+[BehaviorParam_PC][ID 300000785] [] stamina: 6 -> 5
+[BehaviorParam_PC][ID 300000786] [] stamina: 6 -> 5
+[BehaviorParam_PC][ID 300000787] [] stamina: 35 -> 28
+[BehaviorParam_PC][ID 300000788] [] stamina: 35 -> 28
+[BehaviorParam_PC][ID 300000850] [] stamina: 50 -> 30
+[BehaviorParam_PC][ID 300000851] [] stamina: 45 -> 40
+[BehaviorParam_PC][ID 300000852] [] stamina: 60 -> 40
+[BehaviorParam_PC][ID 300602900] [] stamina: 20 -> 15
+[BehaviorParam_PC][ID 300602901] [] stamina: 30 -> 25
+[BehaviorParam_PC][ID 300602902] [] stamina: 15 -> 10
+[BehaviorParam_PC][ID 300602905] [] stamina: 30 -> 15
+[BehaviorParam_PC][ID 300602906] [] stamina: 45 -> 25
+[BehaviorParam_PC][ID 300602907] [] stamina: 23 -> 10
+[BehaviorParam_PC][ID 300602908] [] stamina: 30 -> 20
+[BehaviorParam_PC][ID 300803900] [] stamina: 40 -> 38
+[BehaviorParam_PC][ID 300803903] [] stamina: 20 -> 15
+[BehaviorParam_PC][ID 300803904] [] stamina: 20 -> 12
+[BehaviorParam_PC][ID 300910900] [] stamina: 25 -> 15
+[BehaviorParam_PC][ID 301112900] [] stamina: 25 -> 16
+[BehaviorParam_PC][ID 301112901] [] stamina: 25 -> 20
+[BehaviorParam_PC][ID 301112905] [] stamina: 25 -> 16
+[BehaviorParam_PC][ID 301112906] [] stamina: 25 -> 20
+[BehaviorParam_PC][ID 302006900] [] stamina: 17 -> 20
+[BehaviorParam_PC][ID 302006901] [] stamina: 17 -> 10
+[BehaviorParam_PC][ID 302006902] [] stamina: 17 -> 10
+[BehaviorParam_PC][ID 302006903] [] stamina: 17 -> 10
+[BehaviorParam_PC][ID 302006904] [] stamina: 22 -> 20
+[BehaviorParam_PC][ID 302006910] [] stamina: 17 -> 20
+[BehaviorParam_PC][ID 302006911] [] stamina: 17 -> 10
+[BehaviorParam_PC][ID 302006912] [] stamina: 17 -> 10
+[BehaviorParam_PC][ID 302006913] [] stamina: 17 -> 10
+[BehaviorParam_PC][ID 302006914] [] stamina: 22 -> 20
+[BehaviorParam_PC][ID 302112900] [] stamina: 30 -> 15
+[BehaviorParam_PC][ID 302112902] [] stamina: 40 -> 25
+[BehaviorParam_PC][ID 302112905] [] stamina: 40 -> 15
+[BehaviorParam_PC][ID 302112907] [] stamina: 55 -> 25
+[BehaviorParam_PC][ID 302112910] [] stamina: 30 -> 15
+[BehaviorParam_PC][ID 302112912] [] stamina: 40 -> 25
+[BehaviorParam_PC][ID 302112915] [] stamina: 40 -> 15
+[BehaviorParam_PC][ID 302112917] [] stamina: 55 -> 25
+*** *** *** *** BonfireWarpParam *** *** *** ***
+[BonfireWarpParam][ID 310000] [] textId5: -1 -> 130900 [] textEnableFlagId5: 0 -> 3691 [] textDisableFlagId5: 0 -> 3683 [] textId6: -1 -> 130900 [] textEnableFlagId6: 0 -> 3692 [] textDisableFlagId6: 0 -> 3683 [] textId7: -1 -> 130900 [] textEnableFlagId7: 0 -> 3694 [] textDisableFlagId7: 0 -> 3683 [] textType5: 0 -> 1 [] textType6: 0 -> 1 [] textType7: 0 -> 1 [] unkB8: 0 -> 31009267 [] unkD8: 0 -> 400189 [] unkDC: 0 -> 400189 [] unkE0: 0 -> 400189
+*** *** *** *** BuddyStoneParam *** *** *** ***
+[BuddyStoneParam][ID 12020102] [] activateRange: 100 -> 999 [] overwriteActivateRegionEntityId: 0 -> 12022102
+*** *** *** *** Bullet *** *** *** ***
+[Bullet][ID 2651] [] HitBulletID: 2652 -> -1
+[Bullet][ID 2190163] [] isPenetrateChr: 0 -> 1
+[Bullet][ID 2190203] [] isPenetrateChr: 0 -> 1
+[Bullet][ID 2190283] [] isPenetrateChr: 0 -> 1
+[Bullet][ID 2190384] [] isPenetrateChr: 0 -> 1
+[Bullet][ID 2190386] [] isPenetrateChr: 0 -> 1
+[Bullet][ID 2190460] [] isPenetrateChr: 0 -> 1
+[Bullet][ID 2190530] [] isPenetrateChr: 0 -> 1
+[Bullet][ID 2200390] [] life: 2 -> 3 [] accelInRange: 0 -> 3 [] accelOutRange: 5 -> 10 [] maxVellocity: 12 -> 25 [] minVellocity: 6 -> 3 [] homingAngle: 80 -> 70
+[Bullet][ID 2200391] [] gravityInRange: 1 -> 0 [] gravityOutRange: 1 -> 0 [] maxVellocity: 12 -> 25 [] minVellocity: 6 -> 5
+[Bullet][ID 2200392] [] life: 3 -> 2 [] gravityInRange: -2 -> -1 [] gravityOutRange: -2 -> -1 [] accelInRange: 8 -> 30 [] accelOutRange: 8 -> 30 [] maxVellocity: 18 -> 25 [] minVellocity: 6 -> 5 [] homingAngle: 90 -> 10
+[Bullet][ID 2200393] [] life: 4.5 -> 3.5 [] maxVellocity: 18 -> 25 [] minVellocity: 6 -> 5
+[Bullet][ID 2200394] [] life: 4 -> 2 [] accelInRange: 9 -> 30 [] accelOutRange: 9 -> 30 [] minVellocity: 6 -> 5 [] homingAngle: 100 -> 10
+[Bullet][ID 2200395] [] life: 2 -> 4 [] dist: 1.5 -> 5 [] gravityInRange: -2 -> -1 [] gravityOutRange: -2 -> -1 [] accelInRange: -35 -> -8 [] accelOutRange: -35 -> -5 [] minVellocity: 2 -> 3.5 [] homingAngle: 180 -> 120
+[Bullet][ID 4760080] [] hitRadius: 0.6 -> 0.45 [] homingAngle: 13 -> 8
+[Bullet][ID 4760081] [] hitRadius: 2.5 -> 2.25
+[Bullet][ID 4760270] [] hitRadius: 0.6 -> 0.45 [] homingAngle: 13 -> 8
+[Bullet][ID 4760271] [] hitRadius: 2.5 -> 2.25
+[Bullet][ID 4980650] [] isHitOtherBulletForceEraseB: 0 -> 1
+[Bullet][ID 4980651] [] isHitOtherBulletForceEraseB: 0 -> 1
+[Bullet][ID 4980652] [] life: 3 -> 0.2 [] isPenetrateChr: 0 -> 1 [] isPenetrateObj: 0 -> 1 [] isPenetrateMap: 0 -> 1
+[Bullet][ID 10406001] [] shootAngle: 2 -> 0 [] shootAngleInterval: -3 -> 0
+[Bullet][ID 10443100] [] dmgHitRecordLifeTime: 0.2 -> 0.3
+[Bullet][ID 10443101] [] dmgHitRecordLifeTime: 0.2 -> 0.3
+[Bullet][ID 10443110] [] dmgHitRecordLifeTime: 0.2 -> 0.3
+[Bullet][ID 10443111] [] dmgHitRecordLifeTime: 0.2 -> 0.3
+[Bullet][ID 10443120] [] dmgHitRecordLifeTime: 0.2 -> 0.3
+[Bullet][ID 10443121] [] dmgHitRecordLifeTime: 0.2 -> 0.3
+[Bullet][ID 10443130] [] dmgHitRecordLifeTime: 0.2 -> 0.3
+[Bullet][ID 10443131] [] dmgHitRecordLifeTime: 0.2 -> 0.3
+[Bullet][ID 10463000] [] hitRadius: 2.7 -> 3.8
+[Bullet][ID 10471000] [] atkId_Bullet: 1 -> 0
+[Bullet][ID 10471001] [] atkId_Bullet: 1 -> 0
+[Bullet][ID 10471002] [] atkId_Bullet: 1 -> 0
+[Bullet][ID 10471003] [] atkId_Bullet: 79981 -> 79980
+[Bullet][ID 10471004] [] atkId_Bullet: 79981 -> 79980
+[Bullet][ID 10471005] [] atkId_Bullet: 79981 -> 79980
+[Bullet][ID 10471050] [] atkId_Bullet: 1 -> 0
+[Bullet][ID 10471051] [] atkId_Bullet: 1 -> 0
+[Bullet][ID 10471052] [] atkId_Bullet: 1 -> 0
+[Bullet][ID 10471053] [] atkId_Bullet: 79981 -> 79980
+[Bullet][ID 10471054] [] atkId_Bullet: 79981 -> 79980
+[Bullet][ID 10471055] [] atkId_Bullet: 79981 -> 79980
+[Bullet][ID 10481000] [] shootAngleYMaxRandom: 180 -> 60
+[Bullet][ID 10481001] [] hormingStopRange: 0 -> 0.5 [] homingAngle: 0 -> 20
+[Bullet][ID 10481002] [] hormingStopRange: 1 -> 0
+[Bullet][ID 10481003] [] hormingStopRange: 1 -> 0.5 [] homingAngle: 20 -> 40
+[Bullet][ID 10481004] [] numShoot: 2 -> 3 [] shootAngleInterval: 180 -> 120 [] shootAngleYMaxRandom: 180 -> 60
+[Bullet][ID 10481005] [] hormingStopRange: 0 -> 0.5 [] homingAngle: 0 -> 20
+[Bullet][ID 10504004] [] life: 2 -> 3
+[Bullet][ID 10504054] [] life: 2 -> 3
+[Bullet][ID 10602000] [] hitRadius: 0.2 -> 0.22
+[Bullet][ID 10602001] [] hitRadius: 0.2 -> 0.13 [] numShoot: 12 -> 5 [] shootAngle: -22 -> -16 [] shootAngleInterval: 4 -> 8 [] shootAngleXZ: -3 -> 2 [] shootAngleYMaxRandom: 2 -> 6 [] shootAngleXMaxRandom: 20 -> 12
+[Bullet][ID 10602002] [] hitRadius: 1 -> 0.75
+[Bullet][ID 10602051] [] hitRadius: 0.3 -> 0.16 [] numShoot: 12 -> 5 [] shootAngle: -22 -> -16 [] shootAngleInterval: 4 -> 8 [] shootAngleXZ: -3 -> 2 [] shootAngleYMaxRandom: 2 -> 6 [] shootAngleXMaxRandom: 20 -> 12
+[Bullet][ID 10602052] [] hitRadius: 1.5 -> 0.95
+[Bullet][ID 10623000] [] life: 1.2 -> 1.4 [] shootAngle: -30 -> -42 [] shootAngleInterval: 5 -> 7
+[Bullet][ID 10623001] [] life: 1.2 -> 1.4 [] shootAngle: 30 -> 42 [] shootAngleInterval: -5 -> -7
+[Bullet][ID 10623050] [] life: 1.2 -> 1.4 [] shootAngle: -45 -> -54 [] shootAngleInterval: 5 -> 6
+[Bullet][ID 10623051] [] life: 1.2 -> 1.4 [] shootAngle: 45 -> 54 [] shootAngleInterval: -5 -> -6
+[Bullet][ID 10691000] [] dmgHitRecordLifeTime: 0.3 -> 0.4
+[Bullet][ID 10691013] [] atkId_Bullet: 0 -> 1
+[Bullet][ID 10691060] [] atkId_Bullet: 0 -> 1
+[Bullet][ID 10721001] [] life: 2.5 -> 1.6 [] spEffectId0: 3126 -> 1721002
+[Bullet][ID 10731103] [] homingAngle: 0 -> 30
+[Bullet][ID 10731107] [] life: 0.05 -> 0.1 [] shootAngleYMaxRandom: 100 -> 60 [] lifeRandomRange: 0.1 -> 0.05
+[Bullet][ID 10731110] [] shootInterval: 0.06 -> 0.09
+[Bullet][ID 10731115] [] shootInterval: 0.4 -> 0.36 [] homingAngle: 20 -> 40
+[Bullet][ID 10731116] [] homingAngle: 0 -> 30
+*** *** *** *** CalcCorrectGraph *** *** *** ***
+[CalcCorrectGraph][ID 11] [] stageMaxVal2: 30 -> 45 [] stageMaxVal3: 80 -> 60 [] stageMaxVal4: 150 -> 99 [] stageMaxGrowVal1: 0 -> 6 [] stageMaxGrowVal2: 35 -> 15 [] stageMaxGrowVal3: 90 -> 18 [] stageMaxGrowVal4: 110 -> 20
+[CalcCorrectGraph][ID 101] [] stageMaxVal1: 20 -> 15 [] stageMaxVal2: 50 -> 35 [] stageMaxGrowVal0: 40 -> 50 [] stageMaxGrowVal1: 100 -> 95 [] stageMaxGrowVal2: 280 -> 200 [] adjPt_maxGrowVal2: -1.3 -> -1.2
+[CalcCorrectGraph][ID 104] [] stageMaxGrowVal1: 100 -> 105 [] stageMaxGrowVal2: 125 -> 130
+*** *** *** *** EquipParamAccessory *** *** *** ***
+[EquipParamAccessory][ID 6100] [] isDrop: 1 -> 0
+*** *** *** *** EquipParamGem *** *** *** ***
+[EquipParamGem][ID 10] [] isDrop: 1 -> 0
+[EquipParamGem][ID 20] [] isDrop: 1 -> 0
+[EquipParamGem][ID 30] [] isDrop: 1 -> 0
+[EquipParamGem][ID 40] [] isDrop: 1 -> 0
+[EquipParamGem][ID 41] [] isDrop: 1 -> 0
+[EquipParamGem][ID 80] [] isDrop: 1 -> 0
+[EquipParamGem][ID 81] [] isDrop: 1 -> 0
+[EquipParamGem][ID 82] [] isDrop: 1 -> 0
+[EquipParamGem][ID 83] [] isDrop: 1 -> 0
+[EquipParamGem][ID 84] [] isDrop: 1 -> 0
+[EquipParamGem][ID 85] [] isDrop: 1 -> 0
+[EquipParamGem][ID 86] [] isDrop: 1 -> 0
+[EquipParamGem][ID 87] [] isDrop: 1 -> 0
+[EquipParamGem][ID 88] [] isDrop: 1 -> 0
+[EquipParamGem][ID 89] [] isDrop: 1 -> 0
+[EquipParamGem][ID 90] [] isDrop: 1 -> 0
+[EquipParamGem][ID 100] [] isDrop: 1 -> 0
+[EquipParamGem][ID 101] [] isDrop: 1 -> 0
+[EquipParamGem][ID 102] [] isDrop: 1 -> 0
+[EquipParamGem][ID 103] [] isDrop: 1 -> 0
+[EquipParamGem][ID 104] [] isDrop: 1 -> 0
+[EquipParamGem][ID 105] [] isDrop: 1 -> 0
+[EquipParamGem][ID 106] [] isDrop: 1 -> 0
+[EquipParamGem][ID 107] [] isDrop: 1 -> 0
+[EquipParamGem][ID 108] [] isDrop: 1 -> 0
+[EquipParamGem][ID 109] [] isDrop: 1 -> 0
+[EquipParamGem][ID 110] [] isDrop: 1 -> 0
+[EquipParamGem][ID 111] [] isDrop: 1 -> 0
+[EquipParamGem][ID 112] [] isDrop: 1 -> 0
+[EquipParamGem][ID 113] [] isDrop: 1 -> 0
+[EquipParamGem][ID 114] [] isDrop: 1 -> 0
+[EquipParamGem][ID 115] [] isDrop: 1 -> 0
+[EquipParamGem][ID 116] [] isDrop: 1 -> 0
+[EquipParamGem][ID 117] [] isDrop: 1 -> 0
+[EquipParamGem][ID 118] [] isDrop: 1 -> 0
+[EquipParamGem][ID 119] [] isDrop: 1 -> 0
+[EquipParamGem][ID 120] [] isDrop: 1 -> 0
+[EquipParamGem][ID 121] [] isDrop: 1 -> 0
+[EquipParamGem][ID 122] [] isDrop: 1 -> 0
+[EquipParamGem][ID 123] [] isDrop: 1 -> 0
+[EquipParamGem][ID 124] [] isDrop: 1 -> 0
+[EquipParamGem][ID 125] [] isDrop: 1 -> 0
+[EquipParamGem][ID 126] [] isDrop: 1 -> 0
+[EquipParamGem][ID 127] [] isDrop: 1 -> 0
+[EquipParamGem][ID 128] [] isDrop: 1 -> 0
+[EquipParamGem][ID 129] [] isDrop: 1 -> 0
+[EquipParamGem][ID 130] [] isDrop: 1 -> 0
+[EquipParamGem][ID 131] [] isDrop: 1 -> 0
+[EquipParamGem][ID 132] [] isDrop: 1 -> 0
+[EquipParamGem][ID 133] [] isDrop: 1 -> 0
+[EquipParamGem][ID 134] [] isDrop: 1 -> 0
+[EquipParamGem][ID 135] [] isDrop: 1 -> 0
+[EquipParamGem][ID 136] [] isDrop: 1 -> 0
+[EquipParamGem][ID 137] [] isDrop: 1 -> 0
+[EquipParamGem][ID 138] [] isDrop: 1 -> 0
+[EquipParamGem][ID 139] [] isDrop: 1 -> 0
+[EquipParamGem][ID 140] [] isDrop: 1 -> 0
+[EquipParamGem][ID 141] [] isDrop: 1 -> 0
+[EquipParamGem][ID 142] [] isDrop: 1 -> 0
+[EquipParamGem][ID 143] [] isDrop: 1 -> 0
+[EquipParamGem][ID 144] [] isDrop: 1 -> 0
+[EquipParamGem][ID 146] [] isDrop: 1 -> 0
+[EquipParamGem][ID 147] [] isDrop: 1 -> 0
+[EquipParamGem][ID 148] [] isDrop: 1 -> 0
+[EquipParamGem][ID 149] [] isDrop: 1 -> 0
+[EquipParamGem][ID 151] [] isDrop: 1 -> 0
+[EquipParamGem][ID 152] [] isDrop: 1 -> 0
+[EquipParamGem][ID 153] [] isDrop: 1 -> 0
+[EquipParamGem][ID 154] [] isDrop: 1 -> 0
+[EquipParamGem][ID 155] [] isDrop: 1 -> 0
+[EquipParamGem][ID 156] [] isDrop: 1 -> 0
+[EquipParamGem][ID 157] [] isDrop: 1 -> 0
+[EquipParamGem][ID 158] [] isDrop: 1 -> 0
+[EquipParamGem][ID 159] [] isDrop: 1 -> 0
+[EquipParamGem][ID 160] [] isDrop: 1 -> 0
+[EquipParamGem][ID 161] [] isDrop: 1 -> 0
+[EquipParamGem][ID 163] [] isDrop: 1 -> 0
+[EquipParamGem][ID 164] [] isDrop: 1 -> 0
+[EquipParamGem][ID 165] [] isDrop: 1 -> 0
+[EquipParamGem][ID 166] [] isDrop: 1 -> 0
+[EquipParamGem][ID 167] [] isDrop: 1 -> 0
+[EquipParamGem][ID 168] [] isDrop: 1 -> 0
+[EquipParamGem][ID 169] [] isDrop: 1 -> 0
+[EquipParamGem][ID 170] [] isDrop: 1 -> 0
+[EquipParamGem][ID 171] [] isDrop: 1 -> 0
+[EquipParamGem][ID 173] [] isDrop: 1 -> 0
+[EquipParamGem][ID 174] [] isDrop: 1 -> 0
+[EquipParamGem][ID 175] [] isDrop: 1 -> 0
+[EquipParamGem][ID 176] [] isDrop: 1 -> 0
+[EquipParamGem][ID 177] [] isDrop: 1 -> 0
+[EquipParamGem][ID 178] [] isDrop: 1 -> 0
+[EquipParamGem][ID 179] [] isDrop: 1 -> 0
+[EquipParamGem][ID 180] [] isDrop: 1 -> 0
+[EquipParamGem][ID 181] [] isDrop: 1 -> 0
+[EquipParamGem][ID 182] [] isDrop: 1 -> 0
+[EquipParamGem][ID 183] [] isDrop: 1 -> 0
+[EquipParamGem][ID 184] [] isDrop: 1 -> 0
+[EquipParamGem][ID 185] [] isDrop: 1 -> 0
+[EquipParamGem][ID 186] [] isDrop: 1 -> 0
+[EquipParamGem][ID 187] [] isDrop: 1 -> 0
+[EquipParamGem][ID 190] [] isDrop: 1 -> 0
+[EquipParamGem][ID 191] [] isDrop: 1 -> 0
+[EquipParamGem][ID 192] [] isDrop: 1 -> 0
+[EquipParamGem][ID 194] [] isDrop: 1 -> 0
+[EquipParamGem][ID 195] [] isDrop: 1 -> 0
+[EquipParamGem][ID 196] [] isDrop: 1 -> 0
+[EquipParamGem][ID 197] [] isDrop: 1 -> 0
+[EquipParamGem][ID 198] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1000] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1001] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1002] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1003] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1004] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1005] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1006] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1007] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1008] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1009] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1010] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1011] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1012] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1013] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1014] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1015] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1016] [] isDrop: 1 -> 0
+[EquipParamGem][ID 1017] [] isDrop: 1 -> 0
+*** *** *** *** EquipParamGoods *** *** *** ***
+[EquipParamGoods][ID 9142] ROW ADDED
+[EquipParamGoods][ID 42] [] isDrop: 1 -> 0
+[EquipParamGoods][ID 43] [] isDrop: 1 -> 0
+[EquipParamGoods][ID 44] [] isDrop: 1 -> 0
+[EquipParamGoods][ID 1100] [] aiUseJudgeId: 30000000 -> -1
+[EquipParamGoods][ID 1190] [] aiUseJudgeId: 30000000 -> -1
+[EquipParamGoods][ID 1200] [] aiUseJudgeId: 30000000 -> -1
+[EquipParamGoods][ID 1220] [] isDrop: 1 -> 0
+[EquipParamGoods][ID 1350] [] isDrop: 1 -> 0
+[EquipParamGoods][ID 1570] [] isDrop: 1 -> 0
+[EquipParamGoods][ID 3300] [] isDrop: 1 -> 0
+[EquipParamGoods][ID 3310] [] aiUseJudgeId: 10000000 -> 10200000
+[EquipParamGoods][ID 3311] [] aiUseJudgeId: 10000000 -> 10200000
+[EquipParamGoods][ID 9100] [] sortId: 460000 -> 460005
+*** *** *** *** EquipParamProtector *** *** *** ***
+[EquipParamProtector][ID 202100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 610000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 610100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 610200] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 610300] [] isDrop: 1 -> 0 [] defenseMaterialSfx2: 109 -> 113
+[EquipParamProtector][ID 611000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 611100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 700000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 700100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 700200] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 700300] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 701000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 702000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 742000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 834100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 835000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 835100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 835200] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 835300] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 836000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 873000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 892100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 901200] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 901600] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 904100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 912000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 912100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 912200] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 912300] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 913000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 920000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 965000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 965100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 965300] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 966000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 967000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 992000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1610000] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1930300] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1932100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1950100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1950200] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1950300] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1960100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1960200] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1970100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1970200] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1971100] [] isDrop: 1 -> 0
+[EquipParamProtector][ID 1971200] [] isDrop: 1 -> 0
+*** *** *** *** EquipParamWeapon *** *** *** ***
+[EquipParamWeapon][ID 1200] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1210] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1220] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1230] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1240] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1250] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1260] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1400] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1410] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1420] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1430] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1500] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1600] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1700] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1800] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1900] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 2000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 2100] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 2200] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 11000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 12000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 13000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 100000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 100100] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 100200] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 100300] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 100400] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 100500] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 100600] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 100700] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 100800] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 100900] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 101000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 851000] [] correctFaith: 140 -> 165
+[EquipParamWeapon][ID 1190000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 1910000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 2050000] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2050100] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2050200] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2050300] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2050400] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2050500] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2050600] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2050700] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2050800] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2050900] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2051000] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2051100] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2051200] [] staminaGuardDef: 29 -> 27
+[EquipParamWeapon][ID 2090000] [] physGuardCutRate: 44 -> 59 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 2220000] [] staminaGuardDef: 34 -> 33
+[EquipParamWeapon][ID 2230000] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2230100] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2230200] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2230300] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2230400] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2230500] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2230600] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2230700] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2230800] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2230900] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2231000] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2231100] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2231200] [] staminaGuardDef: 29 -> 30
+[EquipParamWeapon][ID 2240000] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2240100] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2240200] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2240300] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2240400] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2240500] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2240600] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2240700] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2240800] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2240900] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2241000] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2241100] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 2241200] [] staminaGuardDef: 28 -> 30
+[EquipParamWeapon][ID 3000000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3000100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3000200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3000300] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3000400] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3000500] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3000600] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3000700] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3000800] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3000900] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3001000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3001100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3001200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3010000] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3010100] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3010200] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3010300] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3010400] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3010500] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3010600] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3010700] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3010800] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3010900] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3011000] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3011100] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3011200] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3020000] [] physGuardCutRate: 56 -> 73 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3020100] [] physGuardCutRate: 56 -> 73 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3020200] [] physGuardCutRate: 56 -> 73 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3020300] [] physGuardCutRate: 56 -> 73 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3020400] [] physGuardCutRate: 56 -> 73 [] attackBaseFire: 130 -> 144 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3020500] [] physGuardCutRate: 56 -> 73 [] attackBaseFire: 130 -> 144 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3020600] [] physGuardCutRate: 56 -> 73 [] attackBaseThunder: 130 -> 144 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3020700] [] physGuardCutRate: 56 -> 73 [] staminaGuardDef: 39 -> 47 [] attackBaseDark: 130 -> 144
+[EquipParamWeapon][ID 3020800] [] physGuardCutRate: 56 -> 73 [] attackBaseMagic: 130 -> 144 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3020900] [] physGuardCutRate: 56 -> 73 [] attackBaseMagic: 98 -> 108 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3021000] [] physGuardCutRate: 56 -> 73 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3021100] [] physGuardCutRate: 56 -> 73 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3021200] [] physGuardCutRate: 56 -> 73 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3030000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3030100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3030200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3030300] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3030400] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3030500] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3030600] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3030700] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3030800] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3030900] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3031000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3031100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3031200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3040000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3040100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3040200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3040300] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3040400] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3040500] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3040600] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3040700] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3040800] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3040900] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3041000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3041100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3041200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3050000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3050100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3050200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3050300] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3050400] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3050500] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3050600] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3050700] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3050800] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3050900] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3051000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3051100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3051200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3060000] [] physGuardCutRate: 52 -> 69 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 3070000] [] physGuardCutRate: 41 -> 56 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3080000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3080100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3080200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3080300] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3080400] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3080500] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3080600] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3080700] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3080800] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3080900] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3081000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3081100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3081200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3090000] [] physGuardCutRate: 42 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3100000] [] physGuardCutRate: 47 -> 62 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3130000] [] physGuardCutRate: 49 -> 66 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3140000] [] physGuardCutRate: 56 -> 72 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 3150000] [] physGuardCutRate: 51 -> 68 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3160000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 3170000] [] physGuardCutRate: 40 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3180000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3180100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3180200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3180300] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3180400] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3180500] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3180600] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3180700] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3180800] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3180900] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3181000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3181100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3181200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 3190000] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3190100] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3190200] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3190300] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3190400] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3190500] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3190600] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3190700] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3190800] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3190900] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3191000] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3191100] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3191200] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3200000] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 3210000] [] physGuardCutRate: 44 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 3220000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 3900000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 4000000] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4000100] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4000200] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4000300] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4000400] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4000500] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4000600] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4000700] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4000800] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4000900] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4001000] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4001100] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4001200] [] physGuardCutRate: 67 -> 84 [] staminaGuardDef: 39 -> 56
+[EquipParamWeapon][ID 4010000] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4010100] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4010200] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4010300] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4010400] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4010500] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4010600] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4010700] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4010800] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4010900] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4011000] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4011100] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4011200] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4020000] [] physGuardCutRate: 51 -> 68 [] staminaGuardDef: 38 -> 55
+[EquipParamWeapon][ID 4030000] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4030100] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4030200] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4030300] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4030400] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4030500] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4030600] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4030700] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4030800] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4030900] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4031000] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4031100] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4031200] [] physGuardCutRate: 61 -> 76 [] staminaGuardDef: 41 -> 51
+[EquipParamWeapon][ID 4040000] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4040100] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4040200] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4040300] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4040400] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4040500] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4040600] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4040700] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4040800] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4040900] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4041000] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4041100] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4041200] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4050000] [] physGuardCutRate: 49 -> 65 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 4060000] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 4070000] [] physGuardCutRate: 49 -> 63 [] staminaGuardDef: 36 -> 45
+[EquipParamWeapon][ID 4080000] [] physGuardCutRate: 65 -> 82 [] staminaGuardDef: 45 -> 56
+[EquipParamWeapon][ID 4100000] [] physGuardCutRate: 64 -> 80 [] attackBasePhysics: 157 -> 162 [] staminaGuardDef: 43 -> 53
+[EquipParamWeapon][ID 4110000] [] physGuardCutRate: 55 -> 70 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 4900000] [] physGuardCutRate: 54 -> 67 [] staminaGuardDef: 36 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 4910000] [] physGuardCutRate: 49 -> 63 [] staminaGuardDef: 36 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 6900000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 7020000] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7020100] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7020200] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7020300] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7020400] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7020500] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7020600] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7020700] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7020800] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7020900] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7021000] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7021100] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 7021200] [] staminaGuardDef: 23 -> 22
+[EquipParamWeapon][ID 8010000] [] physGuardCutRate: 42 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8020000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8020100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8020200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8020300] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8020400] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8020500] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8020600] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8020700] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8020800] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8020900] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8021000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8021100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8021200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 8030000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8040000] [] physGuardCutRate: 48 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 8050000] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8060000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8060100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8060200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8060300] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8060400] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8060500] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8060600] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8060700] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8060800] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8060900] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8061000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8061100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8061200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 8070000] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8070100] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8070200] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8070300] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8070400] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8070500] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8070600] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8070700] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8070800] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8070900] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8071000] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8071100] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8071200] [] physGuardCutRate: 47 -> 61 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 8080000] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8080100] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8080200] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8080300] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8080400] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8080500] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8080600] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8080700] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8080800] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8080900] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8081000] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8081100] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8081200] [] physGuardCutRate: 62 -> 81 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 8100000] [] physGuardCutRate: 42 -> 55 [] staminaGuardDef: 29 -> 35
+[EquipParamWeapon][ID 8900000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 9900000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 9910000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 9911000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 9920000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 9930000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 11080000] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11080100] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11080200] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11080300] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11080400] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11080500] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11080600] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11080700] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11080800] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11080900] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11081000] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11081100] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11081200] [] staminaGuardDef: 34 -> 36
+[EquipParamWeapon][ID 11140000] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11140100] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11140200] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11140300] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11140400] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11140500] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11140600] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11140700] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11140800] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11140900] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11141000] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11141100] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11141200] [] staminaGuardDef: 35 -> 36
+[EquipParamWeapon][ID 11170000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 12000000] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12000100] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12000200] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12000300] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12000400] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12000500] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12000600] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12000700] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12000800] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12000900] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12001000] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12001100] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12001200] [] physGuardCutRate: 46 -> 60 [] staminaGuardDef: 32 -> 38
+[EquipParamWeapon][ID 12010000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12010100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12010200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12010300] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12010400] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12010500] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12010600] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12010700] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12010800] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12010900] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12011000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12011100] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12011200] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12020000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12020100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12020200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12020300] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12020400] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12020500] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12020600] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12020700] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12020800] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12020900] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12021000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12021100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12021200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12060000] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12060100] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12060200] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12060300] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12060400] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12060500] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12060600] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12060700] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12060800] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12060900] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12061000] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12061100] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12061200] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 12080000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12080100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12080200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12080300] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12080400] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12080500] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12080600] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12080700] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12080800] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12080900] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12081000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12081100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12081200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12130000] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12130100] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12130200] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12130300] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12130400] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12130500] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12130600] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12130700] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12130800] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12130900] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12131000] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12131100] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12131200] [] physGuardCutRate: 48 -> 63 [] staminaGuardDef: 34 -> 40
+[EquipParamWeapon][ID 12140000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12140100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12140200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12140300] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12140400] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12140500] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12140600] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12140700] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12140800] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12140900] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12141000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12141100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12141200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12150000] [] physGuardCutRate: 47 -> 62 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12160000] [] physGuardCutRate: 44 -> 58 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 12170000] [] physGuardCutRate: 54 -> 71 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12180000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12180100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12180200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12180300] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12180400] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12180500] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12180600] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12180700] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12180800] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12180900] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12181000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12181100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12181200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12190000] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12190100] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12190200] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12190300] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12190400] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12190500] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12190600] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12190700] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12190800] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12190900] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12191000] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12191100] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12191200] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 12200000] [] physGuardCutRate: 47 -> 62 [] attackBasePhysics: 107 -> 112 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 12210000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12210100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12210200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12210300] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12210400] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12210500] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12210600] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12210700] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12210800] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12210900] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12211000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12211100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12211200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 12900000] [] physGuardCutRate: 55 -> 71 [] staminaGuardDef: 38 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 12910000] [] physGuardCutRate: 47 -> 62 [] staminaGuardDef: 35 -> 42 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 14030000] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14030100] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14030200] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14030300] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14030400] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14030500] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14030600] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14030700] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14030800] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14030900] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14031000] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14031100] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14031200] [] staminaGuardDef: 33 -> 36
+[EquipParamWeapon][ID 14060000] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14060100] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14060200] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14060300] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14060400] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14060500] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14060600] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14060700] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14060800] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14060900] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14061000] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14061100] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14061200] [] staminaGuardDef: 31 -> 33
+[EquipParamWeapon][ID 14140000] [] staminaGuardDef: 33 -> 31
+[EquipParamWeapon][ID 15000000] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15000100] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15000200] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15000300] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15000400] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15000500] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15000600] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15000700] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15000800] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15000900] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15001000] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15001100] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15001200] [] physGuardCutRate: 53 -> 69 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 15020000] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15020100] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15020200] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15020300] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15020400] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15020500] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15020600] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15020700] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15020800] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15020900] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15021000] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15021100] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15021200] [] physGuardCutRate: 47 -> 63 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15030000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15030100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15030200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15030300] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15030400] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15030500] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15030600] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15030700] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15030800] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15030900] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15031000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15031100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15031200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15040000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15050000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15050100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15050200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15050300] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15050400] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15050500] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15050600] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15050700] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15050800] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15050900] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15051000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15051100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15051200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15060000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15060100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15060200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15060300] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15060400] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15060500] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15060600] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15060700] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15060800] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15060900] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15061000] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15061100] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15061200] [] physGuardCutRate: 52 -> 68 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 15080000] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15080100] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15080200] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15080300] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15080400] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15080500] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15080600] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15080700] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15080800] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15080900] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15081000] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15081100] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15081200] [] physGuardCutRate: 57 -> 74 [] staminaGuardDef: 40 -> 48
+[EquipParamWeapon][ID 15110000] [] physGuardCutRate: 50 -> 65 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 15120000] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15120100] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15120200] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15120300] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15120400] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15120500] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15120600] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15120700] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15120800] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15120900] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15121000] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15121100] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15121200] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15130000] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15130100] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15130200] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15130300] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15130400] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15130500] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15130600] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15130700] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15130800] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15130900] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15131000] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15131100] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15131200] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15140000] [] physGuardCutRate: 36 -> 49 [] staminaGuardDef: 31 -> 37
+[EquipParamWeapon][ID 15900000] [] physGuardCutRate: 45 -> 58 [] staminaGuardDef: 31 -> 37 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 16060000] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16060100] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16060200] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16060300] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16060400] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16060500] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16060600] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16060700] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16060800] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16060900] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16061000] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16061100] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16061200] [] staminaGuardDef: 30 -> 33
+[EquipParamWeapon][ID 16080000] [] staminaGuardDef: 33 -> 34
+[EquipParamWeapon][ID 17010000] [] physGuardCutRate: 51 -> 57 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 17020000] [] physGuardCutRate: 46 -> 51 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 17030000] [] physGuardCutRate: 60 -> 72 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 17050000] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 17060000] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17060100] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17060200] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17060300] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17060400] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17060500] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17060600] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17060700] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17060800] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17060900] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17061000] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17061100] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17061200] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 17070000] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45
+[EquipParamWeapon][ID 17070100] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17070200] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17070300] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17070400] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17070500] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17070600] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17070700] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17070800] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17070900] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17071000] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17071100] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17071200] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 37 -> 45 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17900000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 17910000] [] staminaGuardDef: 37 -> 40 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 18000000] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18000100] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18000200] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18000300] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18000400] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18000500] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18000600] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18000700] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18000800] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18000900] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18001000] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18001100] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18001200] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18010000] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18010100] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18010200] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18010300] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18010400] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18010500] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18010600] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18010700] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18010800] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18010900] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18011000] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18011100] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18011200] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18020000] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18020100] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18020200] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18020300] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18020400] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18020500] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18020600] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18020700] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18020800] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18020900] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18021000] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18021100] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18021200] [] physGuardCutRate: 47 -> 52 [] staminaGuardDef: 33 -> 39
+[EquipParamWeapon][ID 18030000] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18030100] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18030200] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18030300] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18030400] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18030500] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18030600] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18030700] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18030800] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18030900] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18031000] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18031100] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18031200] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18040000] [] physGuardCutRate: 58 -> 64 [] staminaGuardDef: 41 -> 49
+[EquipParamWeapon][ID 18050000] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18050100] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18050200] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18050300] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18050400] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18050500] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18050600] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18050700] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18050800] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18050900] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18051000] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18051100] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18051200] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18060000] [] physGuardCutRate: 51 -> 56 [] staminaGuardDef: 35 -> 43
+[EquipParamWeapon][ID 18070000] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18070100] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18070200] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18070300] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18070400] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18070500] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18070600] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18070700] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18070800] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18070900] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18071000] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18071100] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18071200] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18080000] [] physGuardCutRate: 58 -> 65 [] staminaGuardDef: 43 -> 52
+[EquipParamWeapon][ID 18090000] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18090100] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18090200] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18090300] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18090400] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18090500] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18090600] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18090700] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18090800] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18090900] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18091000] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18091100] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18091200] [] physGuardCutRate: 55 -> 60 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18100000] [] physGuardCutRate: 51 -> 57 [] staminaGuardDef: 38 -> 46
+[EquipParamWeapon][ID 18110000] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18110100] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18110200] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18110300] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18110400] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18110500] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18110600] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18110700] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18110800] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18110900] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18111000] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18111100] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18111200] [] physGuardCutRate: 52 -> 57 [] staminaGuardDef: 36 -> 44
+[EquipParamWeapon][ID 18130000] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18130100] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18130200] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18130300] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18130400] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18130500] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18130600] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18130700] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18130800] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18130900] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18131000] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18131100] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18131200] [] physGuardCutRate: 50 -> 55 [] staminaGuardDef: 35 -> 42
+[EquipParamWeapon][ID 18140000] [] physGuardCutRate: 52 -> 58 [] staminaGuardDef: 39 -> 47
+[EquipParamWeapon][ID 18150000] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18150100] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18150200] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18150300] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18150400] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18150500] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18150600] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18150700] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18150800] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18150900] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18151000] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18151100] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18151200] [] physGuardCutRate: 60 -> 66 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 18160000] [] physGuardCutRate: 48 -> 54 [] staminaGuardDef: 42 -> 50
+[EquipParamWeapon][ID 19001000] [] spEffectBehaviorId0: 66401 -> 6401
+[EquipParamWeapon][ID 20070000] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20070100] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20070200] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20070300] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20070400] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20070500] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20070600] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20070700] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20070800] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20070900] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20071000] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20071100] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 20071200] [] staminaGuardDef: 16 -> 15
+[EquipParamWeapon][ID 22010000] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22010100] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22010200] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22010300] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22010400] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22010500] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22010600] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22010700] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22010800] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22010900] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22011000] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22011100] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 22011200] [] staminaGuardDef: 21 -> 19
+[EquipParamWeapon][ID 23000000] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23000100] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23000200] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23000300] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23000400] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23000500] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23000600] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23000700] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23000800] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23000900] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23001000] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23001100] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23001200] [] physGuardCutRate: 66 -> 82 [] staminaGuardDef: 44 -> 55
+[EquipParamWeapon][ID 23010000] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23020000] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47
+[EquipParamWeapon][ID 23020100] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23020200] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23020300] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23020400] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23020500] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23020600] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23020700] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23020800] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23020900] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23021000] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23021100] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23021200] [] physGuardCutRate: 57 -> 71 [] staminaGuardDef: 38 -> 47 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23030000] [] physGuardCutRate: 55 -> 70 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23040000] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23040100] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23040200] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23040300] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23040400] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23040500] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23040600] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23040700] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23040800] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23040900] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23041000] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23041100] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23041200] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23050000] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23060000] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 38 -> 47
+[EquipParamWeapon][ID 23070000] [] physGuardCutRate: 57 -> 73 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23080000] [] physGuardCutRate: 55 -> 70 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23100000] [] physGuardCutRate: 58 -> 73 [] staminaGuardDef: 39 -> 48
+[EquipParamWeapon][ID 23110000] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23110100] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23110200] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23110300] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23110400] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23110500] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23110600] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23110700] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23110800] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23110900] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23111000] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23111100] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23111200] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58
+[EquipParamWeapon][ID 23120000] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23120100] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23120200] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23120300] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23120400] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23120500] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23120600] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23120700] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23120800] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23120900] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23121000] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23121100] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23121200] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23130000] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46
+[EquipParamWeapon][ID 23130100] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23130200] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23130300] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23130400] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23130500] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23130600] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23130700] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23130800] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23130900] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23131000] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23131100] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23131200] [] physGuardCutRate: 52 -> 66 [] staminaGuardDef: 37 -> 46 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23140000] [] physGuardCutRate: 60 -> 75 [] staminaGuardDef: 40 -> 50
+[EquipParamWeapon][ID 23150000] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23150100] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23150200] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23150300] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23150400] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23150500] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23150600] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23150700] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23150800] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23150900] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23151000] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23151100] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23151200] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52
+[EquipParamWeapon][ID 23900000] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23910000] [] physGuardCutRate: 63 -> 78 [] staminaGuardDef: 42 -> 52 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23920000] [] physGuardCutRate: 58 -> 73 [] staminaGuardDef: 39 -> 48 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 23930000] [] physGuardCutRate: 70 -> 88 [] staminaGuardDef: 47 -> 58 [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 24000000] [] staminaGuardDef: 17 -> 19
+[EquipParamWeapon][ID 24020000] [] staminaGuardDef: 20 -> 19
+[EquipParamWeapon][ID 24070000] [] staminaGuardDef: 24 -> 22
+[EquipParamWeapon][ID 32900000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 32910000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 32920000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 33190000] [] correctType_Poison: 6 -> 11 [] correctType_Blood: 6 -> 11 [] correctType_Sleep: 6 -> 11 [] correctType_Madness: 6 -> 11
+[EquipParamWeapon][ID 33900000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 33910000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 33920000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 33930000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 33940000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 33950000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 33960000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 33970000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 33980000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 34080000] [] correctType_Poison: 6 -> 11 [] correctType_Blood: 6 -> 11 [] correctType_Sleep: 6 -> 11 [] correctType_Madness: 6 -> 11
+[EquipParamWeapon][ID 34900000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 34910000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 34920000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 34930000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 34940000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 34950000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 34960000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 34970000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 34980000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 34990000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 40000000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 40010000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 40030000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 40050000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 41010000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 41020000] [] atkMaterial: 0 -> 4 [] defSeMaterial1: 100 -> 154 [] defSfxMaterial1: 106 -> 117
+[EquipParamWeapon][ID 41030000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 41040000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 41070000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 42010000] [] atkMaterial: 0 -> 4 [] defSeMaterial1: 100 -> 155 [] defSfxMaterial1: 106 -> 117
+[EquipParamWeapon][ID 42030000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 42040000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 43000000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 43020000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 43030000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 43050000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 43080000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 43110000] [] atkMaterial: 0 -> 2 [] defSeMaterial1: 100 -> 102 [] defSfxMaterial1: 106 -> 128
+[EquipParamWeapon][ID 43900000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 52900000] [] isDrop: 1 -> 0
+[EquipParamWeapon][ID 52910000] [] isDrop: 1 -> 0
+*** *** *** *** GameAreaParam *** *** *** ***
+[GameAreaParam][ID 1036540800] [] bossChallengeFlagId: 1036540805 -> 0
+[GameAreaParam][ID 1054560800] [] defeatBossFlagId: 1054560800 -> 1254560800
+*** *** *** *** ItemLotParam_enemy *** *** *** ***
+[ItemLotParam_enemy][ID 300014407] DUPLICATE ROW (OLD REGULATION)
+[ItemLotParam_enemy][ID 300014408] DUPLICATE ROW (OLD REGULATION)
+[ItemLotParam_enemy][ID 300014507] ROW ADDED
+[ItemLotParam_enemy][ID 300014508] ROW ADDED
+[ItemLotParam_enemy][ID 370130101] ROW ADDED
+[ItemLotParam_enemy][ID 370130102] ROW ADDED
+[ItemLotParam_enemy][ID 370130103] ROW ADDED
+[ItemLotParam_enemy][ID 370130104] ROW ADDED
+[ItemLotParam_enemy][ID 370130105] ROW ADDED
+[ItemLotParam_enemy][ID 370130106] ROW ADDED
+[ItemLotParam_enemy][ID 448130602] ROW REMOVED
+[ItemLotParam_enemy][ID 350000400] [] lotItemBasePoint02: 20 -> 15
+[ItemLotParam_enemy][ID 350000402] [] lotItemBasePoint02: 10 -> 15 [] lotItemNum02: 2 -> 1
+[ItemLotParam_enemy][ID 370130100] [] lotItemId02: 0 -> 90000 [] lotItemCategory02: 0 -> 3 [] lotItemBasePoint01: 1000 -> 960 [] lotItemBasePoint02: 0 -> 40 [] lotItemNum02: 0 -> 1 [] enableLuck02: 0 -> 1
+[ItemLotParam_enemy][ID 404000000] [] lotItemId02: 20654 -> 15160
+[ItemLotParam_enemy][ID 404000100] [] lotItemId02: 20654 -> 15160
+[ItemLotParam_enemy][ID 404000201] [] lotItemId02: 20654 -> 15160
+[ItemLotParam_enemy][ID 448130600] [] lotItemId02: 20653 -> 20650 [] lotItemBasePoint01: 970 -> 900 [] lotItemBasePoint02: 30 -> 100
+*** *** *** *** ItemLotParam_map *** *** *** ***
+[ItemLotParam_map][ID 100725] ROW ADDED
+[ItemLotParam_map][ID 100726] ROW ADDED
+[ItemLotParam_map][ID 103701] ROW ADDED
+[ItemLotParam_map][ID 103702] ROW ADDED
+[ItemLotParam_map][ID 103824] ROW ADDED
+[ItemLotParam_map][ID 31000030] ROW ADDED
+[ItemLotParam_map][ID 103710] ROW REMOVED
+[ItemLotParam_map][ID 103720] ROW REMOVED
+*** *** *** *** KeyAssignParam_TypeA *** *** *** ***
+[KeyAssignParam_TypeA][ID 20] [] keyboardKeyId: -1 -> 98
+*** *** *** *** LoadBalancerNewDrawDistScaleParam_win64 *** *** *** ***
+[LoadBalancerNewDrawDistScaleParam_win64][ID 11] [] DrawDist_ScaleEnd: 0 -> 0.5 [] ShadwDrawDist_ScaleEnd: 0 -> 0.5
+*** *** *** *** Magic *** *** *** ***
+[Magic][ID 4060] [] aiUseJudgeId: 10000200 -> 10000300
+[Magic][ID 4130] [] aiUseJudgeId: 30000000 -> 30100000
+[Magic][ID 4520] [] mp: 24 -> 20 [] mp_charge: 6 -> 5 [] consumeLoopMP_forMenu: 6 -> 5
+[Magic][ID 4620] [] mp_charge: 32 -> 24
+[Magic][ID 4670] [] aiUseJudgeId: 30000000 -> -1
+[Magic][ID 4800] [] mp: 24 -> 18 [] mp_charge: 24 -> 18
+[Magic][ID 4830] [] mp: 35 -> 26
+[Magic][ID 5010] [] mp: 36 -> 29
+[Magic][ID 5040] [] mp: 46 -> 32 [] mp_charge: 46 -> 32
+[Magic][ID 6020] [] mp: 24 -> 18 [] stamina: 40 -> 10 [] refCategory3: 0 -> 1 [] refCategory4: 0 -> 1 [] refCategory5: 0 -> 1 [] mp_charge: 24 -> 18 [] stamina_charge: 52 -> 13 [] refCategory6: 0 -> 1 [] refId3: -1 -> 10602000 [] refId4: -1 -> 10602050 [] refId5: -1 -> 10602000 [] refId6: -1 -> 10602050 [] consumeType4: 0 -> 1 [] consumeType6: 0 -> 1
+[Magic][ID 6040] [] aiUseJudgeId: 20000000 -> -1
+[Magic][ID 6100] [] stamina: 43 -> 34 [] stamina_charge: 56 -> 44
+[Magic][ID 6110] [] mp: 50 -> 42
+[Magic][ID 6230] [] mp: 27 -> 21 [] mp_charge: 27 -> 21
+[Magic][ID 6240] [] mp: 36 -> 30 [] mp_charge: 36 -> 30
+[Magic][ID 6300] [] mp: 18 -> 14
+[Magic][ID 6440] [] aiUseJudgeId: 20000000 -> -1
+[Magic][ID 6700] [] mp: 11 -> 9
+[Magic][ID 6710] [] mp: 29 -> 25 [] mp_charge: 29 -> 25
+[Magic][ID 6740] [] aiUseJudgeId: 30000000 -> 30020000
+[Magic][ID 6780] [] aiUseJudgeId: 20000000 -> -1
+[Magic][ID 6850] [] aiUseJudgeId: 20000000 -> -1
+[Magic][ID 6920] [] stamina: 37 -> 32
+[Magic][ID 6921] [] stamina: 45 -> 39
+[Magic][ID 6940] [] mp: 42 -> 30 [] stamina: 41 -> 29
+[Magic][ID 6941] [] mp: 64 -> 45 [] stamina: 52 -> 42
+[Magic][ID 6950] [] mp: 35 -> 28 [] stamina: 55 -> 45
+[Magic][ID 7000] [] aiUseJudgeId: 11000200 -> 10000300
+[Magic][ID 7001] [] aiUseJudgeId: 11000100 -> 10000300
+[Magic][ID 7020] [] aiUseJudgeId: 11000200 -> 10000300
+[Magic][ID 7021] [] aiUseJudgeId: 11000100 -> 10000300
+[Magic][ID 7030] [] aiUseJudgeId: 11000200 -> 10000300
+[Magic][ID 7031] [] aiUseJudgeId: 11000100 -> 10000300
+[Magic][ID 7040] [] aiUseJudgeId: 11000200 -> 10000300
+[Magic][ID 7041] [] aiUseJudgeId: 11000100 -> 10000300
+[Magic][ID 7050] [] mp: 80 -> 62 [] stamina: 600 -> 75
+[Magic][ID 7060] [] mp: 42 -> 32 [] stamina: 50 -> 35
+[Magic][ID 7080] [] mp: 62 -> 46 [] stamina: 72 -> 50
+[Magic][ID 7090] [] mp: 75 -> 62 [] stamina: 80 -> 72
+[Magic][ID 7200] [] stamina: 35 -> 29
+[Magic][ID 7311] [] mp: 42 -> 30
+[Magic][ID 7500] [] mp: 32 -> 22 [] stamina: 42 -> 32 [] mp_charge: 32 -> 22 [] stamina_charge: 55 -> 42
+[Magic][ID 7510] [] mp: 30 -> 20 [] stamina: 49 -> 38 [] mp_charge: 30 -> 20 [] stamina_charge: 64 -> 49
+[Magic][ID 7530] [] stamina: 61 -> 51
+[Magic][ID 7900] [] aiUseJudgeId: 11000000 -> 12000000
+[Magic][ID 53510] [] aiUseJudgeId: 30000000 -> 20000000
+*** *** *** *** NpcParam *** *** *** ***
+[NpcParam][ID 44919320] ROW ADDED
+[NpcParam][ID 81200033] ROW ADDED
+[NpcParam][ID 20109140] [] GameClearSpEffectID: 14341 -> 7470
+[NpcParam][ID 20300024] [] spEffectID21: -1 -> 14361
+[NpcParam][ID 30106051] [] spEffectID3: 7130 -> 7110 [] GameClearSpEffectID: 7530 -> 7510
+[NpcParam][ID 30107051] [] spEffectID3: 7130 -> 7110 [] GameClearSpEffectID: 7530 -> 7510
+[NpcParam][ID 31500042] [] spEffectID21: -1 -> 5481
+[NpcParam][ID 33500920] [] spEffectID23: -1 -> 11596
+[NpcParam][ID 33500930] [] spEffectID23: -1 -> 11596
+[NpcParam][ID 33500940] [] spEffectID23: -1 -> 11596
+[NpcParam][ID 33501920] [] spEffectID23: -1 -> 11596
+[NpcParam][ID 33501930] [] spEffectID23: -1 -> 11596
+[NpcParam][ID 33501940] [] spEffectID23: -1 -> 11596
+[NpcParam][ID 33502920] [] spEffectID23: -1 -> 11596
+[NpcParam][ID 33502940] [] spEffectID23: -1 -> 11596
+[NpcParam][ID 40700550] [] itemLotId_enemy: 407000000 -> -1
+[NpcParam][ID 40710550] [] itemLotId_enemy: 407100000 -> -1
+[NpcParam][ID 41109170] [] spEffectID3: 7100 -> 7150 [] GameClearSpEffectID: 7500 -> 7550
+[NpcParam][ID 43400940] [] spEffectID22: -1 -> 13244
+[NpcParam][ID 43401940] [] spEffectID22: -1 -> 13244
+[NpcParam][ID 44700938] [] spEffectID20: -1 -> 14311
+[NpcParam][ID 44701938] [] spEffectID20: -1 -> 14311
+[NpcParam][ID 44909040] [] GameClearSpEffectID: 14341 -> 7470
+[NpcParam][ID 47300000] [] spEffectID21: -1 -> 5481
+[NpcParam][ID 47300040] [] spEffectID21: -1 -> 5481
+[NpcParam][ID 48000000] [] threatLv: 0 -> 1
+[NpcParam][ID 48000068] [] threatLv: 0 -> 1
+[NpcParam][ID 48001000] [] threatLv: 0 -> 1
+[NpcParam][ID 48001935] [] threatLv: 0 -> 1
+[NpcParam][ID 48008000] [] threatLv: 0 -> 1
+[NpcParam][ID 48009000] [] threatLv: 0 -> 1
+[NpcParam][ID 48100150] [] spEffectID18: -1 -> 17333
+[NpcParam][ID 49100026] [] hitRadius: 6 -> 4.5
+[NpcParam][ID 81200000] [] networkWarpDist: 16 -> 200
+[NpcParam][ID 81200032] [] networkWarpDist: 16 -> 200
+[NpcParam][ID 81200132] [] networkWarpDist: 16 -> 200
+[NpcParam][ID 523230033] [] itemLotId_map: 113800 -> -1
+[NpcParam][ID 523480256] [] teamType: 26 -> 0
+*** *** *** *** NpcThinkParam *** *** *** ***
+[NpcThinkParam][ID 33600664] ROW ADDED
+[NpcThinkParam][ID 33500900] [] TeamAttackEffectivity: 50 -> 70
+[NpcThinkParam][ID 33500910] [] TeamAttackEffectivity: 50 -> 70
+[NpcThinkParam][ID 33501900] [] TeamAttackEffectivity: 50 -> 70
+[NpcThinkParam][ID 33501910] [] TeamAttackEffectivity: 50 -> 70
+[NpcThinkParam][ID 33502900] [] TeamAttackEffectivity: 50 -> 70
+[NpcThinkParam][ID 43400900] [] thinkAttr_doAdmirer: 0 -> 1
+[NpcThinkParam][ID 43401900] [] thinkAttr_doAdmirer: 0 -> 1
+[NpcThinkParam][ID 44700900] [] thinkAttr_doAdmirer: 0 -> 1
+[NpcThinkParam][ID 44701900] [] thinkAttr_doAdmirer: 0 -> 1
+[NpcThinkParam][ID 48100000] [] thinkAttr_doAdmirer: 0 -> 1
+*** *** *** *** PartsDrawParam *** *** *** ***
+[PartsDrawParam][ID 79] ROW ADDED
+*** *** *** *** PlayerCommonParam *** *** *** ***
+[PlayerCommonParam][ID 0] [] resistRecoverPoint_Madness_Player: 5 -> 4
+*** *** *** *** PlayRegionParam *** *** *** ***
+[PlayRegionParam][ID 3100000] [] pcPositionSaveLimitEventFlagId: 31000800 -> 31000845
+[PlayRegionParam][ID 3100001] [] multiPlayStartLimitEventFlagId: 0 -> 3691
+[PlayRegionParam][ID 6501000] [] bossId_3: 1054560800 -> 1254560800
+[PlayRegionParam][ID 6501001] [] bossId_3: 1054560800 -> 1254560800
+[PlayRegionParam][ID 6501002] [] bossId_3: 1054560800 -> 1254560800
+[PlayRegionParam][ID 6501003] [] bossId_3: 1054560800 -> 1254560800
+[PlayRegionParam][ID 6501010] [] bossId_3: 1054560800 -> 1254560800
+*** *** *** *** SignPuddleParam *** *** *** ***
+[SignPuddleParam][ID 1039540040] [] matchAreaId: 3200 -> 3000
+*** *** *** *** SpEffectParam *** *** *** ***
+[SpEffectParam][ID 9706] ROW ADDED
+[SpEffectParam][ID 11596] ROW ADDED
+[SpEffectParam][ID 13244] ROW ADDED
+[SpEffectParam][ID 14311] ROW ADDED
+[SpEffectParam][ID 18607] ROW ADDED
+[SpEffectParam][ID 18608] ROW ADDED
+[SpEffectParam][ID 18609] ROW ADDED
+[SpEffectParam][ID 1721002] ROW ADDED
+[SpEffectParam][ID 1515] [] behaviorId: -1 -> 2140 [] stateInfo: 0 -> 275 [] dmypolyId: -1 -> 95
+[SpEffectParam][ID 1716] [] effectEndurance: 20 -> 60
+[SpEffectParam][ID 1718] [] effectEndurance: 20 -> 60
+[SpEffectParam][ID 1724] [] freezeAttackPower: 15 -> 35
+[SpEffectParam][ID 1782] [] madnessAttackPower: 7 -> 4
+[SpEffectParam][ID 18670] [] spCategory: 0 -> 200 [] categoryPriority: 0 -> 206
+[SpEffectParam][ID 290210] [] maxHpRate: 3.4 -> 3.3
+[SpEffectParam][ID 341000] [] guardStaminaCutRate: 1.1 -> 1
+[SpEffectParam][ID 500430] [] changeHpPoint: 12 -> 14
+[SpEffectParam][ID 500431] [] changeHpPoint: 12 -> 14
+[SpEffectParam][ID 500670] [] changeHpRate: 0.33 -> 0.18 [] changeHpPoint: 13 -> 15
+[SpEffectParam][ID 511060] [] effectEndurance: 15 -> 7
+[SpEffectParam][ID 1443100] [] freezeAttackPower: 120 -> 90
+[SpEffectParam][ID 1443101] [] freezeAttackPower: 90 -> 35
+[SpEffectParam][ID 1490010] [] bloodAttackPower: 60 -> 90
+[SpEffectParam][ID 1491010] [] bloodAttackPower: 40 -> 60
+[SpEffectParam][ID 1721000] [] spCategory: 10 -> 20
+[SpEffectParam][ID 1721001] [] bloodAttackPower: 2 -> 4
+[SpEffectParam][ID 1730001] [] madnessAttackPower: 15 -> 14
+[SpEffectParam][ID 1730002] [] madnessAttackPower: 10 -> 9
+[SpEffectParam][ID 1731000] [] madnessAttackPower: 25 -> 21
+[SpEffectParam][ID 1731001] [] madnessAttackPower: 35 -> 28
+[SpEffectParam][ID 1731100] [] madnessAttackPower: 25 -> 40
+[SpEffectParam][ID 1732000] [] madnessAttackPower: 150 -> 90
+[SpEffectParam][ID 1732001] [] madnessAttackPower: 180 -> 105
+[SpEffectParam][ID 1733001] [] madnessAttackPower: 60 -> 35
+[SpEffectParam][ID 1733002] [] madnessAttackPower: 8 -> 6
+*** *** *** *** SwordArtsParam *** *** *** ***
+[SwordArtsParam][ID 125] [] aiUsageId: 12000000 -> 11001203
+[SwordArtsParam][ID 1008] [] useMagicPoint_L2: 40 -> 32
+[SwordArtsParam][ID 1020] [] useMagicPoint_L2: 50 -> 42
+[SwordArtsParam][ID 1026] [] useMagicPoint_L2: 35 -> 28
+[SwordArtsParam][ID 1029] [] useMagicPoint_L2: 31 -> 26
+[SwordArtsParam][ID 1037] [] useMagicPoint_L2: 20 -> 17
+[SwordArtsParam][ID 1049] [] useMagicPoint_L2: 35 -> 25
+[SwordArtsParam][ID 1050] [] useMagicPoint_L2: 22 -> 14
+[SwordArtsParam][ID 1052] [] useMagicPoint_L2: 30 -> 24
+[SwordArtsParam][ID 1196] [] aiUsageId: 41000000 -> -1
+*** *** *** *** TalkParam *** *** *** ***
+[TalkParam][ID 22608300] ROW ADDED
+[TalkParam][ID 22608301] ROW ADDED
+[TalkParam][ID 22608302] ROW ADDED
+[TalkParam][ID 22608303] ROW ADDED
+[TalkParam][ID 22608400] ROW ADDED
+[TalkParam][ID 22608401] ROW ADDED
+[TalkParam][ID 22608402] ROW ADDED
+[TalkParam][ID 22608403] ROW ADDED
+[TalkParam][ID 22608500] ROW ADDED
+[TalkParam][ID 22608501] ROW ADDED
+[TalkParam][ID 22608502] ROW ADDED
+[TalkParam][ID 22608503] ROW ADDED
+[TalkParam][ID 22608600] ROW ADDED
+[TalkParam][ID 22608601] ROW ADDED
+[TalkParam][ID 22608602] ROW ADDED
+[TalkParam][ID 22608603] ROW ADDED
+[TalkParam][ID 22608700] ROW ADDED
+[TalkParam][ID 22608701] ROW ADDED
+[TalkParam][ID 22608702] ROW ADDED
+[TalkParam][ID 22608703] ROW ADDED
+[TalkParam][ID 30917105] ROW ADDED
+[TalkParam][ID 30990002] ROW ADDED
+[TalkParam][ID 30917102] ROW REMOVED
+[TalkParam][ID 31100100] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100101] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100102] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100103] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100104] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100105] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100106] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100107] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100200] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100201] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100300] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100301] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100302] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100303] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100304] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100400] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31100401] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31101000] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31101001] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31101002] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31101003] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31101100] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31101101] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31101102] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31101103] [] talkAnimationId: 90300 -> -1
+[TalkParam][ID 31102000] [] talkAnimationId: 90305 -> -1
+[TalkParam][ID 31102001] [] talkAnimationId: 90305 -> -1
+[TalkParam][ID 31102002] [] talkAnimationId: 90305 -> -1
+[TalkParam][ID 31102003] [] talkAnimationId: 90305 -> -1
+[TalkParam][ID 31102004] [] talkAnimationId: 90305 -> -1
+[TalkParam][ID 31102005] [] talkAnimationId: 90305 -> -1
+[TalkParam][ID 31102100] [] talkAnimationId: 90305 -> -1
+[TalkParam][ID 31102101] [] talkAnimationId: 90305 -> -1
+[TalkParam][ID 31102102] [] talkAnimationId: 90305 -> -1
+[TalkParam][ID 31102103] [] talkAnimationId: 90305 -> -1
+[TalkParam][ID 31304002] [] lipSyncStart: 0 -> -1
+*** *** *** *** TutorialParam *** *** *** ***
+[TutorialParam][ID 1820] ROW ADDED
+*** *** *** *** WorldMapPointParam *** *** *** ***
+[WorldMapPointParam][ID 80150001] [] unkE8: 400323 -> 400321
