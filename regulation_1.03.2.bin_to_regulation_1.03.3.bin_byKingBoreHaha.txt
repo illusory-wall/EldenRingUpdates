@@ -1,0 +1,174 @@
+Game: ER
+Version: 10320064 to 10330078
+*** *** *** *** AtkParam_Npc *** *** *** ***
+[AtkParam_Npc][ID 4730100] [] atkPhys: 320 -> 340
+[AtkParam_Npc][ID 4730101] [] atkPhys: 320 -> 340
+[AtkParam_Npc][ID 4730110] [] atkPhys: 250 -> 270
+[AtkParam_Npc][ID 4730120] [] atkPhys: 250 -> 270
+[AtkParam_Npc][ID 4730130] [] atkPhys: 250 -> 270
+[AtkParam_Npc][ID 4730140] [] atkPhys: 250 -> 270
+[AtkParam_Npc][ID 4730150] [] atkPhys: 300 -> 320
+[AtkParam_Npc][ID 4730151] [] atkPhys: 300 -> 320
+[AtkParam_Npc][ID 4730160] [] atkPhys: 210 -> 230
+[AtkParam_Npc][ID 4730170] [] atkPhys: 210 -> 230
+[AtkParam_Npc][ID 4730180] [] atkPhys: 240 -> 260
+[AtkParam_Npc][ID 4730190] [] atkPhys: 200 -> 220
+[AtkParam_Npc][ID 4730191] [] atkPhys: 200 -> 220
+[AtkParam_Npc][ID 4730200] [] atkPhys: 240 -> 260
+[AtkParam_Npc][ID 4730210] [] atkPhys: 200 -> 220
+[AtkParam_Npc][ID 4730211] [] atkPhys: 200 -> 220
+[AtkParam_Npc][ID 4730220] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730221] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730222] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730224] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730226] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730230] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730231] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730232] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730234] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730236] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730240] [] atkPhys: 260 -> 280
+[AtkParam_Npc][ID 4730250] [] atkPhys: 260 -> 280
+[AtkParam_Npc][ID 4730260] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730270] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730280] [] atkPhys: 250 -> 270
+[AtkParam_Npc][ID 4730290] [] atkPhys: 250 -> 270
+[AtkParam_Npc][ID 4730300] [] atkPhys: 270 -> 290
+[AtkParam_Npc][ID 4730310] [] atkPhys: 230 -> 250
+[AtkParam_Npc][ID 4730311] [] atkPhys: 230 -> 250
+[AtkParam_Npc][ID 4730320] [] atkPhys: 230 -> 250
+[AtkParam_Npc][ID 4730321] [] atkPhys: 230 -> 250
+[AtkParam_Npc][ID 4730330] [] atkPhys: 170 -> 190 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730331] [] atkMag: 180 -> 220
+[AtkParam_Npc][ID 4730332] [] atkMag: 50 -> 80
+[AtkParam_Npc][ID 4730333] [] atkMag: 50 -> 80
+[AtkParam_Npc][ID 4730334] [] atkMag: 50 -> 80
+[AtkParam_Npc][ID 4730335] [] atkMag: 50 -> 80
+[AtkParam_Npc][ID 4730336] [] atkMag: 50 -> 80
+[AtkParam_Npc][ID 4730337] [] atkMag: 50 -> 80
+[AtkParam_Npc][ID 4730340] [] atkPhys: 150 -> 170 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730341] [] atkPhys: 150 -> 170 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730342] [] atkPhys: 50 -> 150 [] atkMag: 50 -> 150
+[AtkParam_Npc][ID 4730343] [] atkPhys: 50 -> 150 [] atkMag: 50 -> 150
+[AtkParam_Npc][ID 4730344] [] atkPhys: 50 -> 150 [] atkMag: 50 -> 150
+[AtkParam_Npc][ID 4730345] [] atkPhys: 50 -> 150 [] atkMag: 50 -> 150
+[AtkParam_Npc][ID 4730346] [] atkPhys: 50 -> 150 [] atkMag: 50 -> 150
+[AtkParam_Npc][ID 4730348] [] atkPhys: 50 -> 150 [] atkMag: 50 -> 150
+[AtkParam_Npc][ID 4730350] [] atkPhys: 190 -> 210 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730352] [] atkPhys: 130 -> 150 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730354] [] atkPhys: 130 -> 150 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730360] [] atkPhys: 200 -> 240
+[AtkParam_Npc][ID 4730361] [] atkPhys: 200 -> 240
+[AtkParam_Npc][ID 4730362] [] atkPhys: 180 -> 200
+[AtkParam_Npc][ID 4730363] [] atkPhys: 180 -> 200
+[AtkParam_Npc][ID 4730364] [] atkPhys: 180 -> 200
+[AtkParam_Npc][ID 4730365] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730366] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730368] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730370] [] atkPhys: 290 -> 310
+[AtkParam_Npc][ID 4730371] [] atkPhys: 290 -> 310
+[AtkParam_Npc][ID 4730373] [] atkPhys: 190 -> 210
+[AtkParam_Npc][ID 4730375] [] atkPhys: 130 -> 150 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730400] [] atkPhys: 80 -> 100 [] atkFire: 510 -> 530
+[AtkParam_Npc][ID 4730401] [] atkPhys: 80 -> 100 [] atkFire: 510 -> 530
+[AtkParam_Npc][ID 4730410] [] atkPhys: 120 -> 160
+[AtkParam_Npc][ID 4730411] [] atkPhys: 120 -> 160
+[AtkParam_Npc][ID 4730424] [] atkPhys: 50 -> 90
+[AtkParam_Npc][ID 4730430] [] atkPhys: 130 -> 190 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730431] [] atkPhys: 130 -> 190 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730440] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730450] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730460] [] atkPhys: 250 -> 270
+[AtkParam_Npc][ID 4730470] [] atkPhys: 250 -> 270
+[AtkParam_Npc][ID 4730480] [] atkMag: 80 -> 150
+[AtkParam_Npc][ID 4730481] [] atkMag: 80 -> 150
+[AtkParam_Npc][ID 4730482] [] atkMag: 80 -> 150
+[AtkParam_Npc][ID 4730483] [] atkMag: 80 -> 150
+[AtkParam_Npc][ID 4730484] [] atkMag: 80 -> 150
+[AtkParam_Npc][ID 4730485] [] atkMag: 80 -> 150
+[AtkParam_Npc][ID 4730490] [] atkPhys: 350 -> 370 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730491] [] atkPhys: 350 -> 370 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730492] [] atkMag: 270 -> 290
+[AtkParam_Npc][ID 4730500] [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730501] [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730502] [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730503] [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730504] [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730505] [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730506] [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730507] [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730508] [] atkPhys: 280 -> 300 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730510] [] atkPhys: 150 -> 170
+[AtkParam_Npc][ID 4730511] [] atkPhys: 150 -> 170
+[AtkParam_Npc][ID 4730512] [] atkPhys: 170 -> 190
+[AtkParam_Npc][ID 4730513] [] atkPhys: 150 -> 170
+[AtkParam_Npc][ID 4730514] [] atkPhys: 170 -> 190
+[AtkParam_Npc][ID 4730515] [] atkPhys: 170 -> 190
+[AtkParam_Npc][ID 4730516] [] atkPhys: 190 -> 210
+[AtkParam_Npc][ID 4730520] [] atkPhys: 340 -> 360
+[AtkParam_Npc][ID 4730521] [] atkPhys: 340 -> 360
+[AtkParam_Npc][ID 4730530] [] atkPhys: 270 -> 290
+[AtkParam_Npc][ID 4730540] [] atkPhys: 270 -> 290
+[AtkParam_Npc][ID 4730550] [] atkPhys: 270 -> 290
+[AtkParam_Npc][ID 4730560] [] atkPhys: 270 -> 290
+[AtkParam_Npc][ID 4730570] [] atkPhys: 320 -> 340
+[AtkParam_Npc][ID 4730571] [] atkPhys: 320 -> 340
+[AtkParam_Npc][ID 4730580] [] atkPhys: 230 -> 250
+[AtkParam_Npc][ID 4730590] [] atkPhys: 230 -> 250
+[AtkParam_Npc][ID 4730600] [] atkPhys: 260 -> 280
+[AtkParam_Npc][ID 4730610] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730611] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730620] [] atkPhys: 260 -> 280
+[AtkParam_Npc][ID 4730630] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730631] [] atkPhys: 220 -> 240
+[AtkParam_Npc][ID 4730640] [] atkPhys: 200 -> 220 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730641] [] atkPhys: 200 -> 220 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730642] [] atkPhys: 210 -> 230 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730644] [] atkPhys: 130 -> 150 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730645] [] atkPhys: 150 -> 230 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730650] [] atkPhys: 200 -> 220 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730651] [] atkPhys: 200 -> 220 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730652] [] atkPhys: 210 -> 230 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730654] [] atkPhys: 130 -> 150 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730655] [] atkPhys: 150 -> 230 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730660] [] atkPhys: 280 -> 300
+[AtkParam_Npc][ID 4730670] [] atkPhys: 280 -> 300
+[AtkParam_Npc][ID 4730680] [] atkPhys: 240 -> 260
+[AtkParam_Npc][ID 4730690] [] atkPhys: 240 -> 260
+[AtkParam_Npc][ID 4730700] [] atkPhys: 270 -> 290
+[AtkParam_Npc][ID 4730710] [] atkPhys: 270 -> 290
+[AtkParam_Npc][ID 4730720] [] atkPhys: 290 -> 310
+[AtkParam_Npc][ID 4730730] [] atkPhys: 200 -> 220 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730731] [] atkPhys: 200 -> 220 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730732] [] atkPhys: 150 -> 230 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730740] [] atkPhys: 250 -> 270
+[AtkParam_Npc][ID 4730741] [] atkPhys: 250 -> 270
+[AtkParam_Npc][ID 4730750] [] atkPhys: 320 -> 340 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730751] [] atkPhys: 150 -> 230 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730760] [] atkPhys: 220 -> 260
+[AtkParam_Npc][ID 4730761] [] atkPhys: 220 -> 260
+[AtkParam_Npc][ID 4730762] [] atkPhys: 200 -> 220
+[AtkParam_Npc][ID 4730763] [] atkPhys: 200 -> 220
+[AtkParam_Npc][ID 4730764] [] atkPhys: 200 -> 220
+[AtkParam_Npc][ID 4730765] [] atkPhys: 200 -> 220 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730766] [] atkPhys: 210 -> 230 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730767] [] atkPhys: 150 -> 230 [] atkMag: 130 -> 150
+[AtkParam_Npc][ID 4730770] [] atkPhys: 240 -> 260
+[AtkParam_Npc][ID 4730780] [] atkPhys: 240 -> 260
+[AtkParam_Npc][ID 4730790] [] atkPhys: 270 -> 290
+[AtkParam_Npc][ID 4730800] [] atkPhys: 270 -> 290
+[AtkParam_Npc][ID 4730810] [] atkPhys: 170 -> 190
+[AtkParam_Npc][ID 4730811] [] atkPhys: 170 -> 190
+[AtkParam_Npc][ID 4730812] [] atkPhys: 190 -> 210
+[AtkParam_Npc][ID 4730813] [] atkPhys: 170 -> 190
+[AtkParam_Npc][ID 4730814] [] atkPhys: 190 -> 210
+[AtkParam_Npc][ID 4730815] [] atkPhys: 190 -> 210
+[AtkParam_Npc][ID 4730816] [] atkPhys: 200 -> 220
+*** *** *** *** Bullet *** *** *** ***
+[Bullet][ID 4730342] [] isUseSharedHitList: 0 -> 1
+[Bullet][ID 4730343] [] isUseSharedHitList: 0 -> 1
+[Bullet][ID 4730344] [] isUseSharedHitList: 0 -> 1
+[Bullet][ID 4730345] [] isUseSharedHitList: 0 -> 1
+[Bullet][ID 4730346] [] isUseSharedHitList: 0 -> 1
+[Bullet][ID 4730347] [] isUseSharedHitList: 0 -> 1
+[Bullet][ID 4730348] [] isUseSharedHitList: 0 -> 1
