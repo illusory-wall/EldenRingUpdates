@@ -1,0 +1,4 @@
+Game: ER
+Version: 10410090 to 10420097
+*** *** *** *** SpEffectParam *** *** *** ***
+[SpEffectParam][ID 511060] [] effectEndurance: 7 -> 15
